@@ -1,0 +1,141 @@
+<?php
+
+if (isset($_SESSION['CAMPAIGN_TEMP_PROCESS_ID'])) {
+    $CAMPAIGN_TEMP_PROCESS_ID = $_SESSION['CAMPAIGN_TEMP_PROCESS_ID'];
+} else {
+    $CAMPAIGN_TEMP_PROCESS_ID = DATE("Y-m-d-") . rand(0000, 999999) . "-" . random_bytes(50);
+    $_SESSION['CAMPAIGN_TEMP_PROCESS_ID'] = SECURE($CAMPAIGN_TEMP_PROCESS_ID, "e");
+}
+
+
+if (isset($_GET['SELECTED_SENDER_EMAIL_ID'])) {
+    $SELECTED_SENDER_EMAIL_ID = $_GET['SELECTED_SENDER_EMAIL_ID'];
+    $_SESSION['SELECTED_SENDER_EMAIL_ID'] = $SELECTED_SENDER_EMAIL_ID;
+} else {
+    if (isset($_SESSION['SELECTED_SENDER_EMAIL_ID'])) {
+        $SELECTED_SENDER_EMAIL_ID = $_SESSION['SELECTED_SENDER_EMAIL_ID'];
+    } else {
+        $SELECTED_SENDER_EMAIL_ID = 0;
+    }
+}
+
+if (isset($_GET['SELECTED_EMAIL_TEMPLATE_ID'])) {
+    $SELECTED_EMAIL_TEMPLATE_ID = $_GET['SELECTED_EMAIL_TEMPLATE_ID'];
+    $_SESSION['SELECTED_EMAIL_TEMPLATE_ID'] = $SELECTED_EMAIL_TEMPLATE_ID;
+} else {
+    if (isset($_SESSION['SELECTED_EMAIL_TEMPLATE_ID'])) {
+        $SELECTED_EMAIL_TEMPLATE_ID = $_SESSION['SELECTED_EMAIL_TEMPLATE_ID'];
+    } else {
+        $SELECTED_EMAIL_TEMPLATE_ID = 0;
+    }
+}
+
+if (isset($_GET['EMAIL_CONTAINING_MODULES'])) {
+    $EMAIL_CONTAINING_MODULES = $_GET['EMAIL_CONTAINING_MODULES'];
+    $_SESSION['EMAIL_CONTAINING_MODULES'] = $EMAIL_CONTAINING_MODULES;
+} else {
+    if (isset($_SESSION['EMAIL_CONTAINING_MODULES'])) {
+        $EMAIL_CONTAINING_MODULES = $_SESSION['EMAIL_CONTAINING_MODULES'];
+    } else {
+        $EMAIL_CONTAINING_MODULES = null;
+    }
+}
+
+if (isset($_GET['HAVE_PROJECT_ID'])) {
+    $HAVE_PROJECT_ID = $_GET['HAVE_PROJECT_ID'];
+    $_SESSION['HAVE_PROJECT_ID'] = $HAVE_PROJECT_ID;
+} else {
+    if (isset($_SESSION['HAVE_PROJECT_ID'])) {
+        $HAVE_PROJECT_ID = $_SESSION['HAVE_PROJECT_ID'];
+    } else {
+        $HAVE_PROJECT_ID = null;
+    }
+}
+
+if (isset($_GET['CUSTOMER_ENTRY_TYPE'])) {
+    $CUSTOMER_ENTRY_TYPE = $_GET['CUSTOMER_ENTRY_TYPE'];
+    $_SESSION['CUSTOMER_ENTRY_TYPE'] = $CUSTOMER_ENTRY_TYPE;
+} else {
+    if (isset($_SESSION['CUSTOMER_ENTRY_TYPE'])) {
+        $CUSTOMER_ENTRY_TYPE = $_SESSION['CUSTOMER_ENTRY_TYPE'];
+    } else {
+        $CUSTOMER_ENTRY_TYPE = null;
+    }
+}
+
+if (isset($_GET['BUSINESS_HEAD_ID'])) {
+    $BUSINESS_HEAD_ID = $_GET['BUSINESS_HEAD_ID'];
+    $_SESSION['BUSINESS_HEAD_ID'] = $BUSINESS_HEAD_ID;
+} else {
+    if (isset($_SESSION['BUSINESS_HEAD_ID'])) {
+        $BUSINESS_HEAD_ID = $_SESSION['BUSINESS_HEAD_ID'];
+    } else {
+        $BUSINESS_HEAD_ID = null;
+    }
+}
+
+if (isset($_GET['TEAM_HEAD_ID'])) {
+    $TEAM_HEAD_ID = $_GET['TEAM_HEAD_ID'];
+    $_SESSION['TEAM_HEAD_ID'] = $TEAM_HEAD_ID;
+} else {
+    if (isset($_SESSION['TEAM_HEAD_ID'])) {
+        $TEAM_HEAD_ID = $_SESSION['TEAM_HEAD_ID'];
+    } else {
+        $TEAM_HEAD_ID = null;
+    }
+}
+
+if (isset($_GET['DIRECT_SALE_ID'])) {
+    $DIRECT_SALE_ID = $_GET['DIRECT_SALE_ID'];
+    $_SESSION['DIRECT_SALE_ID'] = $DIRECT_SALE_ID;
+} else {
+    if (isset($_SESSION['DIRECT_SALE_ID'])) {
+        $DIRECT_SALE_ID = $_SESSION['DIRECT_SALE_ID'];
+    } else {
+        $DIRECT_SALE_ID = null;
+    }
+}
+
+if (isset($_GET['ENTRY_STATUS'])) {
+    $ENTRY_STATUS = $_GET['ENTRY_STATUS'];
+    $_SESSION['ENTRY_STATUS'] = $ENTRY_STATUS;
+} else {
+    if (isset($_SESSION['ENTRY_STATUS'])) {
+        $ENTRY_STATUS = $_SESSION['ENTRY_STATUS'];
+    } else {
+        $ENTRY_STATUS = null;
+    }
+}
+
+if (isset($_GET['ALLOTMENT_PHASE'])) {
+    $ALLOTMENT_PHASE = $_GET['ALLOTMENT_PHASE'];
+    $_SESSION['ALLOTMENT_PHASE'] = $ALLOTMENT_PHASE;
+} else {
+    if (isset($_SESSION['ALLOTMENT_PHASE'])) {
+        $ALLOTMENT_PHASE = $_SESSION['ALLOTMENT_PHASE'];
+    } else {
+        $ALLOTMENT_PHASE = null;
+    }
+}
+
+if (isset($_GET['RECORDS_DATE_FROM'])) {
+    $RECORDS_DATE_FROM = $_GET['RECORDS_DATE_FROM'];
+    $_SESSION['RECORDS_DATE_FROM'] = $RECORDS_DATE_FROM;
+} else {
+    if (isset($_SESSION['RECORDS_DATE_FROM'])) {
+        $RECORDS_DATE_FROM = $_SESSION['RECORDS_DATE_FROM'];
+    } else {
+        $RECORDS_DATE_FROM = null;
+    }
+}
+
+if (isset($_GET['RECORDS_DATE_TO'])) {
+    $RECORDS_DATE_TO = $_GET['RECORDS_DATE_TO'];
+    $_SESSION['RECORDS_DATE_TO'] = $RECORDS_DATE_TO;
+} else {
+    if (isset($_SESSION['RECORDS_DATE_TO'])) {
+        $RECORDS_DATE_TO = $_SESSION['RECORDS_DATE_TO'];
+    } else {
+        $RECORDS_DATE_TO = null;
+    }
+}
