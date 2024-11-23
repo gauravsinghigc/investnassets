@@ -1,9 +1,9 @@
 <?php
 // Define database connection constants
-DEFINE("DB_SERVER_HOST", "localhost");
-DEFINE("DB_SERVER_USER", "inve_inve_investnassets");
-DEFINE("DB_SERVER_PASS", "Navix@9810");
-DEFINE("DB_SERVER_DB_NAME", "inve_inve_investnassets");
+define("DB_SERVER_HOST", "localhost");
+define("DB_SERVER_USER", "u694216744_roofnassets");
+define("DB_SERVER_PASS", "Navix@9810895713");
+define("DB_SERVER_DB_NAME", "u694216744_roofnassets");
 
 
 // Create connection

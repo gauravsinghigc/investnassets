@@ -18,7 +18,7 @@ if (isset($_SESSION['LOGIN_USER_ID'])) {
     <?php include "../../assets/HeaderFiles.php"; ?>
 </head>
 
-<body class="hold-transition login-page" style="background-image:url('<?php echo LOGIN_BG_IMAGE; ?>');background-size:cover;background-repeat:no-repeat;">
+<body class="hold-transition login-page app-bg" style="background-size:cover;background-repeat:no-repeat;">
     <div class="login-box">
         <?php
         include "../../include/app/Loader.php"; ?>
@@ -33,7 +33,8 @@ if (isset($_SESSION['LOGIN_USER_ID'])) {
                     </div>
                     <div class="form-group mb-15px m-t-15">
                         <label for="password" class="fs-17 text-gray-600">Password</label>
-                        <input type="password" name="UserPassword" class="form-control form-control-lg h-40px fs-20" placeholder="*******" />
+                        <input type="password" Id='PasswordControl' name="UserPassword" class="form-control form-control-lg h-40px fs-20" placeholder="*******" />
+                        <span onclick="PasswordControl()" id='ViewIcon' class="PassControl"><i class="fa fa-eye-slash"></i></span>
                     </div>
                     <div class="text-dark p-2 pl-0 mt-2 mb-2 text-right fs-16">
                         Forget Password? <a href="<?php echo DOMAIN; ?>/auth/forget/" class="text-primary">Recover Password</a>
@@ -48,6 +49,21 @@ if (isset($_SESSION['LOGIN_USER_ID'])) {
         </div>
 
     </div>
+
+    <script>
+        function PasswordControl() {
+            var x = document.getElementById("PasswordControl");
+            if (x.type === "password") {
+                x.type = "text";
+                document.getElementById('ViewIcon').innerHTML = '<i class="fa fa-eye"></i>';
+            } else {
+                x.type = "password";
+                document.getElementById('ViewIcon').innerHTML = '<i class="fa fa-eye-slash"></i>';
+            }
+        }
+    </script>
+
+
     <?php include "../../assets/FooterFiles.php"; ?>
 </body>
 

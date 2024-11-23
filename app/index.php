@@ -8,10 +8,6 @@ require $Dir . '/handler/AuthController/AuthAccessController.php';
 $PageName = "Dashboard";
 $PageDescription = "Main Dashboard of " . APP_NAME . " for Highlighted and latest checkups about available data";
 
-if (DEVICE_TYPE == "TABLET") {
-  header("location: rec/");
-}
-
 if (isset($_SESSION['DEVICE_MODE_ENABLED'])) {
   $DEVICE_MODE_ENABLED = $_SESSION['DEVICE_MODE_ENABLED'];
   if ($DEVICE_MODE_ENABLED == true) {

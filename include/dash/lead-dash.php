@@ -262,7 +262,7 @@ $AllJunkLeadsYesterday = TOTAL("SELECT LeadsId FROM leads  where LeadPersonManag
       </h5>
     </a>
     <div class="data-display">
-      <ul class="calling-list">
+      <ul class="calling-list pt-0">
         <?php
         if (LOGIN_UserType == "Admin") {
           $fetclFollowUps = _DB_COMMAND_("SELECT * FROM lead_followups where DATE(LeadFollowUpDate)='" . date('Y-m-d') . "' and LeadFollowUpRemindStatus='ACTIVE' ORDER BY LeadFollowUpId DESC", true);
@@ -285,7 +285,7 @@ $AllJunkLeadsYesterday = TOTAL("SELECT LeadsId FROM leads  where LeadPersonManag
   <div class="col-md-6">
     <h5 class="app-heading">Current Activity</h5>
     <div class="data-display">
-      <ul class="calling-list pt-0 height-limit">
+      <ul class="calling-list pt-0">
         <?php
         $LOGIN_UserViewId = LOGIN_UserId;
         $fetclFollowUps = _DB_COMMAND_("SELECT LeadFollowUpRemindStatus, LeadFollowUpId, LeadFollowUpHandleBy, LeadFollowUpDescriptions, LeadFollowCurrentStatus, LeadFollowStatus, LeadFollowMainId, LeadFollowUpUpdatedAt, LeadFollowUpTime, LeadFollowUpDate FROM lead_followups where LeadFollowUpHandleBy='$LOGIN_UserViewId' ORDER BY LeadFollowUpId DESC limit 0, 10", true);

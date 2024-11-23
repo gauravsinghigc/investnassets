@@ -97,6 +97,13 @@
       <p>
         All Users
       </p>
+      <?php
+      $CountOnBoardingCandidates = TOTAL("SELECT user_onboarding_id FROM user_onboarding where user_verification_status='1' and user_verification_approval_status='1'");
+      if ($CountOnBoardingCandidates != 0) {
+      ?>
+        <span class="counter blink-data"><?php echo $CountOnBoardingCandidates; ?></span>
+      <?php
+      } ?>
     </a>
   </li>
 

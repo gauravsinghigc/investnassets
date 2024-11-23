@@ -31,7 +31,6 @@ include "sections/DataCapture.php";
         include $Dir . "/include/app/Header.php";
         include $Dir . "/include/sidebar/get-side-menus.php"; ?>
 
-
         <!-- Content Wrapper. Contains page content -->
         <div class="content-wrapper">
 
@@ -58,7 +57,9 @@ include "sections/DataCapture.php";
             </section>
         </div>
 
-        <?php include $Dir . "/include/app/Footer.php"; ?>
+        <?php
+        include $Dir . "/include/forms/Add-User-Address.php";
+        include $Dir . "/include/app/Footer.php"; ?>
     </div>
 
     <?php include $Dir . "/assets/FooterFiles.php"; ?>

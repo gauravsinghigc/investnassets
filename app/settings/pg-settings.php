@@ -60,8 +60,10 @@ if (isset($_GET['PG_PROVIDER'])) {
                 <div class="card-body">
                   <div class="row">
                     <div class="col-md-3">
-                      <h4 class="app-heading">System Settings</h4>
-                      <?php include "common.php"; ?>
+                      <div class="shadow-sm p-2 b-r-1">
+                        <h4 class="app-heading">System Settings</h4>
+                        <?php include "common.php"; ?>
+                      </div>
                     </div>
 
                     <div class="col-md-9">

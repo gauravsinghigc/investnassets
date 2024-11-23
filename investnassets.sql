@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Generation Time: Aug 12, 2024 at 09:44 AM
+-- Generation Time: Nov 21, 2024 at 08:13 AM
 -- Server version: 10.4.32-MariaDB
 -- PHP Version: 8.2.12
 
@@ -18,7 +18,7 @@ SET time_zone = "+00:00";
 /*!40101 SET NAMES utf8mb4 */;
 
 --
--- Database: `rootandassets`
+-- Database: `investnassets`
 --
 
 -- --------------------------------------------------------
@@ -129,6 +129,13 @@ CREATE TABLE `bookings` (
   `BookingMainCustomerId` varchar(100) NOT NULL,
   `LeadsId` varchar(255) DEFAULT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
+
+--
+-- Dumping data for table `bookings`
+--
+
+INSERT INTO `bookings` (`bookingId`, `BookingAckCode`, `BookingCustomerName`, `BookingCustomerPhone`, `BookingForProject`, `BookingProjectPhase`, `BookingAmount`, `BookingPaymentMode`, `BookingPaymentSource`, `BookingPaymentRefNo`, `BookingPaymentDetails`, `BookingDate`, `BookingNotes`, `BookingCreatedAt`, `BookingUpdatedAt`, `BookingCreatedBy`, `BookingTeamHeadId`, `BookingDirectSalePersonId`, `BookingBusinessHead`, `BookingStatus`, `BookingUpdatedBy`, `BookingMainCustomerId`, `LeadsId`) VALUES
+(1, 'REG001', 'Gaurav Singh', '9266882565', '1', 'PHASE-1', '500', 'Cash', 'CASH', 'CASH', 'ZndWTktIZzhEMHhBMENyQ2xuM2JYUT09', '2024-11-21', 'ZndWTktIZzhEMHhBMENyQ2xuM2JYUT09', '2024-11-21 10:42:39 AM', '2024-11-21 10:43:12 AM', '1', '1', '1', '1', 'Active', '1', '1', NULL);
 
 -- --------------------------------------------------------
 
@@ -383,20 +390,20 @@ CREATE TABLE `configurations` (
 --
 
 INSERT INTO `configurations` (`configurationsid`, `configurationname`, `configurationvalue`, `configurationtype`, `configurationsupportivetext`) VALUES
-(1, 'APP_NAME', 'ROOF N ASSETS INFRA PVT. LTD.', 'TEXT', 'null'),
+(1, 'APP_NAME', 'INVESTNASSETS', 'TEXT', 'null'),
 (2, 'TAGLINE', 'LEADS 365', 'text', 'null'),
 (3, 'OWNER_NAME', 'Navix Consultancy Services', 'text', 'null'),
 (4, 'PRIMARY_PHONE', '-', 'phone', 'null'),
-(5, 'PRIMARY_EMAIL', 'info@roofandassets.com', 'email', 'null'),
-(6, 'SHORT_DESCRIPTION', 'bVVObWhBaDNwYnZoTzdBamdKM1Q0bmNtcCs0VS9kdG9adlhSb0dUZWluUjRCNENjRkl2YnhFYXRBdHByNUNZYw==', 'text', 'null'),
-(7, 'PRIMARY_ADDRESS', 'N2w0bUJSKzBzK0RlemZpM2VPMExUVmxxa1V3ekNYWUhwbEhsakZ0d2dHM0FLVkI4YjR6Q1NDRDJCc1h0aG1mMVZhajh1K1Zmb25HUWlhdnBBVUJWdDFWbmV5RVJ3SWgxZmkybWRadnVYQ0llQlJCNkgxVElucDV0OGNhbFRyYy9Bc1BzaUdjb2F5aE51ME9ZWG1Xb3FOYm1QdWtheDV4VjhpUmUyTjhZYWZFPQ==', 'address', 'null'),
+(5, 'PRIMARY_EMAIL', 'info@investnassets.com', 'email', 'null'),
+(6, 'SHORT_DESCRIPTION', 'REw2SHZiRTB2YjZNOXhUZjNyWS9tZz09', 'text', 'null'),
+(7, 'PRIMARY_ADDRESS', 'OG5PUDdISFoyVkpORE1xOGhXVmFBQT09', 'address', 'null'),
 (8, 'PRIMARY_MAP_LOCATION_LINK', 'M3N6cEE1V0syMjBKWE9JamJ0d2dERVk0aGNLSGw4cW5SUjYyKzY1NWNvQzVtcmZuc1JkVS81dTRsbFZCaGFuU0ZTVDZ2N1hMNDVuVzNoV3ROaEErZGJRa2hzV2FJbDVjREpGZFo2OUZ0R0pKbnlkNUtuZzFVLzRqdmwycWhnYlZWd0ZGUThnMHA5VE9TdnYwYnpSblZSenlDbUJjNVdFc0xaZEd2Mng5NVBqVnlTYThjZitzaE5ZL04vdU4wdTZnQk1rS3FORnJhYVo5QVBTbzJHczhIaEJTcVgzMStoOHpDM1prRURkV0Z0UFJPMkcyalQ4Mit1Uk5tRWJYUzYrK091R1BkSVR1N3R4ZVpGUTJTSStoM0xCN2xJeko0NXVNMit4Ni9sdyt0M0t2TU45RG5GSXh4U0tmbjRqdzkxcUczNHFlNkhZZHV1SFZTZG9Yc2cwNEpSb0pnbFA5bmlkRk91aHJ2L2NxT0dWUGpTU1A4dEI1MWVOTDVnc05pZlhSYVlQbFdGbVZiQnlQOWk3UE54SFptYjlmUkQ2eEt4SFJhY1gwY1FKd0lXWT0=', 'map', 'null'),
-(9, 'SENDER_MAIL_ID', 'info@roofandassets.com', 'email', 'null'),
-(10, 'RECEIVER_MAIL', 'info@roofandassets.com', 'email', 'null'),
+(9, 'SENDER_MAIL_ID', 'info@investnassets.com', 'email', 'null'),
+(10, 'RECEIVER_MAIL', 'info@investnassets.com', 'email', 'null'),
 (11, 'REPLY_TO', 'not available', 'email', 'null'),
-(12, 'SUPPORT_MAIL', 'support@roofandassets.com', 'email', 'null'),
-(13, 'ENQUIRY_MAIL', 'info@roofandassets.com', 'email', 'null'),
-(14, 'ADMIN_MAIL', 'info@roofandassets.com', 'text', 'null'),
+(12, 'SUPPORT_MAIL', 'info@investnassets.com', 'email', 'null'),
+(13, 'ENQUIRY_MAIL', 'info@investnassets.com', 'email', 'null'),
+(14, 'ADMIN_MAIL', 'info@investnassets.com', 'text', 'null'),
 (15, 'SMS_API_KEY', 'null', 'text', 'null'),
 (16, 'DOWNLOAD_ANDROID_APP_LINK', 'not available', 'link', 'null'),
 (17, 'DOWNLOAD_IOS_APP_LINK', 'DOMAIN', 'link', 'null'),
@@ -407,7 +414,7 @@ INSERT INTO `configurations` (`configurationsid`, `configurationname`, `configur
 (24, 'CONTROL_NOTIFICATION', 'true', 'boolean', 'true, false'),
 (25, 'CONTROL_MSG_DISPLAY_TIME', '4500', 'number', '1000, 10000'),
 (26, 'CONTROL_APP_LOGS', 'false', 'boolean', 'true, false'),
-(27, 'APP_LOGO', 'ROOF_N_ASSETS_INFRA_PVT._LTD.__12_Sep_2023_10_09_40_68799152721_.jpg', 'img', 'null'),
+(27, 'APP_LOGO', 'INVESTNASSETS__21_Nov_2024_10_11_03_99727431798_.png', 'img', 'null'),
 (28, 'SMS_OTP_TEMP_ID', 'null', 'text', 'null'),
 (29, 'PASS_RESET_OTP_TEMP', 'null', 'text', 'null'),
 (30, 'SMS_SENDER_ID', 'null', 'text', 'null'),
@@ -462,6 +469,15 @@ CREATE TABLE `config_email_template_headers` (
   `config_email_template_header_name` varchar(500) NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
 
+--
+-- Dumping data for table `config_email_template_headers`
+--
+
+INSERT INTO `config_email_template_headers` (`config_email_template_csv_header_id`, `config_email_template_main_id`, `config_email_template_header_name`) VALUES
+(7, 1, '$NAME'),
+(8, 1, '$APPLICATION'),
+(9, 1, '$EMAILID');
+
 -- --------------------------------------------------------
 
 --
@@ -490,7 +506,11 @@ INSERT INTO `config_holidays` (`ConfigHolidayid`, `ConfigHolidayName`, `ConfigHo
 (1, 'Monday - WEEKLY-OFF', '2024-08-05', '', 'bHczSkNkanJLd1VyKzBhNW5mbjQ1bVdGeGIzYVNQcVBKbkV4VDdFNGVBbHFTVmQzV1B1ZExKVERkazQvdE9pOA==', '', '0', '', '2024-08-10 12:43:13 PM', '2024-08-10 12:43:13 PM', 0),
 (2, 'Monday - WEEKLY-OFF', '2024-08-12', '', 'bHczSkNkanJLd1VyKzBhNW5mbjQ1bVdGeGIzYVNQcVBKbkV4VDdFNGVBbHFTVmQzV1B1ZExKVERkazQvdE9pOA==', '', '0', '', '2024-08-10 12:43:13 PM', '2024-08-10 12:43:13 PM', 0),
 (3, 'Monday - WEEKLY-OFF', '2024-08-19', '', 'bHczSkNkanJLd1VyKzBhNW5mbjQ1bVdGeGIzYVNQcVBKbkV4VDdFNGVBbHFTVmQzV1B1ZExKVERkazQvdE9pOA==', '', '0', '', '2024-08-10 12:43:13 PM', '2024-08-10 12:43:13 PM', 0),
-(4, 'Monday - WEEKLY-OFF', '2024-08-26', '', 'bHczSkNkanJLd1VyKzBhNW5mbjQ1bVdGeGIzYVNQcVBKbkV4VDdFNGVBbHFTVmQzV1B1ZExKVERkazQvdE9pOA==', '', '0', '', '2024-08-10 12:43:13 PM', '2024-08-10 12:43:13 PM', 0);
+(4, 'Monday - WEEKLY-OFF', '2024-08-26', '', 'bHczSkNkanJLd1VyKzBhNW5mbjQ1bVdGeGIzYVNQcVBKbkV4VDdFNGVBbHFTVmQzV1B1ZExKVERkazQvdE9pOA==', '', '0', '', '2024-08-10 12:43:13 PM', '2024-08-10 12:43:13 PM', 0),
+(5, 'Monday - WEEKLY-OFF', '2024-11-04', '', 'bHczSkNkanJLd1VyKzBhNW5mbjQ1bVdGeGIzYVNQcVBKbkV4VDdFNGVBbHFTVmQzV1B1ZExKVERkazQvdE9pOA==', '', '0', '', '2024-11-21 10:31:23 AM', '2024-11-21 10:31:23 AM', 0),
+(6, 'Monday - WEEKLY-OFF', '2024-11-11', '', 'bHczSkNkanJLd1VyKzBhNW5mbjQ1bVdGeGIzYVNQcVBKbkV4VDdFNGVBbHFTVmQzV1B1ZExKVERkazQvdE9pOA==', '', '0', '', '2024-11-21 10:31:23 AM', '2024-11-21 10:31:23 AM', 0),
+(7, 'Monday - WEEKLY-OFF', '2024-11-18', '', 'bHczSkNkanJLd1VyKzBhNW5mbjQ1bVdGeGIzYVNQcVBKbkV4VDdFNGVBbHFTVmQzV1B1ZExKVERkazQvdE9pOA==', '', '0', '', '2024-11-21 10:31:23 AM', '2024-11-21 10:31:23 AM', 0),
+(8, 'Monday - WEEKLY-OFF', '2024-11-25', '', 'bHczSkNkanJLd1VyKzBhNW5mbjQ1bVdGeGIzYVNQcVBKbkV4VDdFNGVBbHFTVmQzV1B1ZExKVERkazQvdE9pOA==', '', '0', '', '2024-11-21 10:31:23 AM', '2024-11-21 10:31:23 AM', 0);
 
 -- --------------------------------------------------------
 
@@ -540,7 +560,7 @@ CREATE TABLE `config_mail_sender` (
 --
 
 INSERT INTO `config_mail_sender` (`config_mail_sender_id`, `config_mail_sender_host`, `config_mail_sender_username`, `config_mail_sender_password`, `config_mail_sender_port`, `config_mail_sent_from`, `config_mail_send_limit`) VALUES
-(1, 'smtp.hostinger.com', 'development@navix.in', 'Navix@1800', '465', 'development@navix.in', 0),
+(1, 'smtp.hostinger.com', 'development@navix.in', 'Gsi@9810895713', '465', 'development@navix.in', 3000),
 (4, 'smtp.hostinger.com', 'development@navix.in', 'Navix@1800', '465', 'development@navix.in', 3000),
 (5, 'smtp.hostinger.com', 'gauravsinghigc@navix.in', 'Navix@1800', '465', 'gauravsinghigc@navix.in', 3000),
 (7, 'smtp.hostinger.com', 'accounts@navix.in', 'Navix@1800', '465', 'accounts@navix.in', 500),
@@ -566,6 +586,13 @@ CREATE TABLE `config_mail_templates` (
   `config_email_template_type` varchar(20) NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
 
+--
+-- Dumping data for table `config_mail_templates`
+--
+
+INSERT INTO `config_mail_templates` (`config_mail_template_id`, `config_mail_template_name`, `config_mail_template_ref_no`, `config_mail_template_content`, `config_mail_template_created_by`, `config_mail_template_created_at`, `config_mail_template_status`, `config_mail_template_updated_by`, `config_mail_template_updated_at`, `config_mail_template_subject`, `config_email_template_type`) VALUES
+(1, 'TEST TEMPLATE', 'TEST_TEMPLATE', '&lt;p&gt;&lt;img src=&quot;https://t4.ftcdn.net/jpg/05/31/67/91/360_F_531679184_3VykZEvx3OvHKnLpl3TdaDYWT1hYjvc9.jpg&quot; alt=&quot;Welcome Banner&amp;quot; Images &amp;ndash; Browse 2,859 Stock Photos, Vectors, and Video |  Adobe Stock&quot; width=&quot;534&quot; height=&quot;225&quot; /&gt;&lt;/p&gt;\r\n&lt;p&gt;Hey $NAME,&amp;nbsp;&lt;/p&gt;\r\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\r\n&lt;p&gt;thanks for signup $APPLICATION&lt;/p&gt;\r\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\r\n&lt;p&gt;Regards&lt;/p&gt;\r\n&lt;p&gt;Name&lt;/p&gt;', 1, '2024-11-21 11:39:04 AM', 1, 1, '2024-11-21 11:39:04 AM', 'TEST $NAME ', 'CUSTOM_VARIABLES');
+
 -- --------------------------------------------------------
 
 --
@@ -577,6 +604,13 @@ CREATE TABLE `config_mail_template_attachements` (
   `config_mail_template_main_id` int(10) NOT NULL,
   `config_mail_template_documents` varchar(255) NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
+
+--
+-- Dumping data for table `config_mail_template_attachements`
+--
+
+INSERT INTO `config_mail_template_attachements` (`config_mail_template_attachment_id`, `config_mail_template_main_id`, `config_mail_template_documents`) VALUES
+(1, 1, 'TEST_TEMPLATE_0_21_11_2024_11_11_10_am_.jpg');
 
 -- --------------------------------------------------------
 
@@ -866,6 +900,13 @@ CREATE TABLE `customers` (
   `CustomerUpdatedAt` varchar(40) NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
 
+--
+-- Dumping data for table `customers`
+--
+
+INSERT INTO `customers` (`CustomerId`, `CustomerName`, `CustomerRelationName`, `CustomerPhoneNumber`, `CustomerEmailId`, `CustomerBirthdate`, `CustomerCreatedBy`, `CustomerUpdatedBy`, `CustomerCreatedAt`, `CustomerUpdatedAt`) VALUES
+(1, 'Gaurav Singh', 'ABC PERSON', '9266882565', 'gauravwebigc@gmail.com', '2024-11-21', '', '1', '2024-11-21 10:42:39 AM', '2024-11-21 12:41:58 PM');
+
 -- --------------------------------------------------------
 
 --
@@ -885,6 +926,14 @@ CREATE TABLE `customer_address` (
   `CustomerAddressType` varchar(100) NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
 
+--
+-- Dumping data for table `customer_address`
+--
+
+INSERT INTO `customer_address` (`CustAddressId`, `CustomerMainId`, `CustomerStreetAddress`, `CustomerAreaLocality`, `CustomerCity`, `CustomerState`, `CustomerCountry`, `CustomerPincode`, `CustAddressIfDefault`, `CustomerAddressType`) VALUES
+(1, 1, 'NVhiaU1SQnV0anRweXZwdGg0OVh3dz09', 'Sector 63', 'Nodia', 'UP', 'INDIA', '201301', '', 'CURRENT'),
+(2, 1, 'NVhiaU1SQnV0anRweXZwdGg0OVh3dz09', 'Sector 63', 'Noida', 'UP', 'iNDIA', '201301', '', 'PERMANENT');
+
 -- --------------------------------------------------------
 
 --
@@ -901,6 +950,13 @@ CREATE TABLE `customer_co_address_details` (
   `CoCustomerCountry` varchar(100) NOT NULL,
   `CoCustomerPincode` varchar(10) NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
+
+--
+-- Dumping data for table `customer_co_address_details`
+--
+
+INSERT INTO `customer_co_address_details` (`CustomerCoAddressId`, `MainCoCustomerId`, `CoCustomerStreetAddress`, `CoCustomerAreaLocality`, `CoCustomerCity`, `CoCustomerState`, `CoCustomerCountry`, `CoCustomerPincode`) VALUES
+(1, 1, 'A199', 'Sector 63', 'Noida', 'UP', 'India', '201301');
 
 -- --------------------------------------------------------
 
@@ -920,6 +976,13 @@ CREATE TABLE `customer_co_details` (
   `CuCustomerCreatedBy` varchar(40) NOT NULL,
   `CoCustomerUpdatedBy` varchar(40) NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
+
+--
+-- Dumping data for table `customer_co_details`
+--
+
+INSERT INTO `customer_co_details` (`CustCoId`, `MainCustomerId`, `CoCustomerName`, `CoCustomerRelationName`, `CoCustomerPhoneNumber`, `CoCustomerEmailId`, `CoCustomerCreatedAt`, `CoCustomerUpdatedAt`, `CuCustomerCreatedBy`, `CoCustomerUpdatedBy`) VALUES
+(1, '1', 'Co Customer', 'Co Customer Relation', '98765456789', 'noemail@gmail.com', '2024-11-21 10:56:22 AM', '2024-11-21 10:56:22 AM', '1', '1');
 
 -- --------------------------------------------------------
 
@@ -954,6 +1017,13 @@ CREATE TABLE `customer_documents` (
   `CustomerDocumentUpdatedBy` varchar(100) NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
 
+--
+-- Dumping data for table `customer_documents`
+--
+
+INSERT INTO `customer_documents` (`CustomerDocumentId`, `CustomerMainId`, `CustomerDocmentType`, `CustomerDocumentName`, `CustomerDocumentNo`, `CustomerDocumentAttachement`, `CustomerDocUploadedAt`, `CustomerDocumentUpdatedBy`) VALUES
+(1, '1', 'REGISTER_1', 'PAN', '1', 'REGISTERATION_Doc_1__21_Nov_2024_10_11_39_43177888299_.jpg', '2024-11-21 10:42:39 AM', '1');
+
 -- --------------------------------------------------------
 
 --
@@ -979,6 +1049,13 @@ CREATE TABLE `customer_nominees` (
   `CustNomCreatedBy` varchar(100) NOT NULL,
   `CustNomUpdatedBy` varchar(100) NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
+
+--
+-- Dumping data for table `customer_nominees`
+--
+
+INSERT INTO `customer_nominees` (`CustNomineeId`, `CustomerMainId`, `CustNomRelation`, `CustNomFullName`, `CustNomPhoneNumber`, `CustNomEmailId`, `CustNomStreetAdress`, `CustNomAreaLocality`, `CustNomCity`, `CustNomState`, `CustNomCountry`, `CustNomPincode`, `CustNomDateofbirth`, `CustNomCreatedAt`, `CustNomUpdatedAt`, `CustNomCreatedBy`, `CustNomUpdatedBy`) VALUES
+(1, 1, 'nominee realtion', 'Nominee Name', '98765456788', 'noemai2l@gmail.com', 'a199', 'noida', 'noid', 'up', 'india', '201301', '2019-11-21', '2024-11-21 10:57:08 AM', '2024-11-21 10:57:08 AM', '1', '1');
 
 -- --------------------------------------------------------
 
@@ -1434,6 +1511,13 @@ CREATE TABLE `projects` (
   `ProjectUpdatedAt` varchar(100) NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
 
+--
+-- Dumping data for table `projects`
+--
+
+INSERT INTO `projects` (`ProjectsId`, `ProjectName`, `ProjectTypeId`, `ProjectDescriptions`, `ProjectCreatedAt`, `ProjectCreatedBy`, `ProjectUpdatedAt`) VALUES
+(1, 'abc residency', 84, 'MUxURkNBKzFHSXJHMDZMMkZDaFByQT09', '2024-11-21 10:45:27 AM', '1', '2024-11-21 10:45:27 AM');
+
 -- --------------------------------------------------------
 
 --
@@ -1713,6 +1797,13 @@ CREATE TABLE `registrations` (
   `RegNetCharge` int(10) NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
 
+--
+-- Dumping data for table `registrations`
+--
+
+INSERT INTO `registrations` (`RegistrationId`, `RegMainCustomerId`, `RegCustomRefId`, `RegAcknowledgeCode`, `RegProjectId`, `RegUnitCost`, `RegAllotmentPhase`, `RegUnitSizeApplied`, `RegProjectCost`, `RegistrationDate`, `RegPossessionStatus`, `RegTeamHead`, `RegDirectSale`, `RegBusHead`, `RegMailSentStatus`, `RegAutoMailSentStatus`, `RegStatus`, `RegUnitAlloted`, `RegNotes`, `RegCreatedAt`, `RegUpdatedAt`, `RegCreatedby`, `RegUpdatedBy`, `RegUnitMeasureType`, `RegUnitRate`, `RegNetCharge`) VALUES
+(1, '1', '', 'REG001', '1', 2925000, 'PHASE', '450', 30, '2024-11-21', 'No', '1', '1', '1', '', '', 'Pending', 'PLOT 1 - 1', 'YjlFdXlwYUZKWldkVG01L3RzUUpCUT09', '2024-11-21 10:58:43 AM', '2024-11-21 10:58:43 AM', 1, 1, 'Sq. Yards', '6500', 0);
+
 -- --------------------------------------------------------
 
 --
@@ -1749,6 +1840,13 @@ CREATE TABLE `registration_charges` (
   `RegChargeAmount` varchar(10) NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
 
+--
+-- Dumping data for table `registration_charges`
+--
+
+INSERT INTO `registration_charges` (`RegChargeId`, `RegistrationMainId`, `RegChargeName`, `RegChargeType`, `RegChargePercentage`, `RegChargeAmount`) VALUES
+(1, '1', 'PLC Charges', 'PERCENTAGE', '10', '292500');
+
 -- --------------------------------------------------------
 
 --
@@ -1766,6 +1864,14 @@ CREATE TABLE `registration_members` (
   `RegMemUpdatedBy` varchar(100) NOT NULL,
   `RegMemCreatedBy` varchar(100) NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
+
+--
+-- Dumping data for table `registration_members`
+--
+
+INSERT INTO `registration_members` (`RegMemberId`, `RegMainId`, `RegMemberRole`, `RegMemberMainId`, `RegMemberNotes`, `RegMemberCreatedAt`, `RegMemberUpatedAt`, `RegMemUpdatedBy`, `RegMemCreatedBy`) VALUES
+(1, '1', 'APPLICANT', '1', 'Co-Applicant', '2024-11-21 10:58:43 AM', '2024-11-21 10:58:43 AM', '1', '1'),
+(2, '1', 'NOMINEE', '1', 'NOMINEE', '2024-11-21 10:58:43 AM', '2024-11-21 10:58:43 AM', '1', '1');
 
 -- --------------------------------------------------------
 
@@ -1847,6 +1953,17 @@ CREATE TABLE `registration_payments` (
   `RegChequePayIssueBy` varchar(100) NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
 
+--
+-- Dumping data for table `registration_payments`
+--
+
+INSERT INTO `registration_payments` (`RegPaymentId`, `RegPayCustRefId`, `RegMainId`, `RegPayMode`, `RegPayTotalAmount`, `RegPayTaxPercentage`, `RegPaySourceName`, `RegPaySourceNo`, `RegPayReferenceNo`, `RegPayChequeDDNo`, `RegPayOtherDetails`, `RegPaymentStatus`, `RegPaymentCreatedAt`, `RegPayCashReceivedBy`, `RegPaymentReceivedBy`, `RegPaymentUpdatedAt`, `RegPaymentUploadReceipt`, `RegPaymentCreatedBy`, `RegPayClearedAt`, `RegPaymentDate`, `RegPaymentFailedAt`, `RegPatmentBounceAt`, `RegChequePayIssueBy`) VALUES
+(1, '#TXN21112454098', '1', 'ONLINE_TRANSFER', 327600, 12, 'hdfc bank', 'IMPS', 'rerf9876', '', 'test person', 'Paid', '2024-11-21 10:58:43 AM', '', 'test person', '2024-11-21 10:58:43 AM', '', '1', '', '2024-11-21', '', '', ''),
+(2, '#TXN21112426329', '1', 'CASH', 50000, 0, 'CASH', 'CASH', 'CASH', '', 'NmMvQUdOc0xxSVFWK1Vqc1dVWWxFZz09', 'Paid', '2024-11-21 12:38:57 PM', 'test perso', '', '2024-11-21 12:38:57 PM', '', '1', '', '2024-11-21', '', '', ''),
+(3, '#TXN21112458351', '1', 'ONLINE_TRANSFER', 12000, 0, 'HDFC BANK', 'IMPS', 'HSVCHJVJHHJV', '', 'UXZSNHF4b3pFVEV4cXF3bnh1K0hiUT09', 'Paid', '2024-11-21 12:40:02 PM', '', 'TEST PERSON', '2024-11-21 12:40:02 PM', '', '1', '', '2024-11-21', '', '', ''),
+(4, '#TXN21112415767', '1', 'CHEQUE_DD', 10000, 0, 'hdfc bank', 'poiyutyrt789', '', '98089080', 'NmMvQUdOc0xxSVFWK1Vqc1dVWWxFZz09', 'Cleared', '2024-11-21 12:40:52 PM', '', '', '2024-11-21 12:40:52 PM', '', '1', '', '2024-11-21', '', '', 'gaurav singh'),
+(5, '#TXN21112480929', '1', 'WALLET_UPI', 120000, 0, 'GOOGLE PAY', '9876545678', 'TEYFFGSHDC', '', 'aG1WOTZSaUZLVmJEcllVektsNDZlUT09', 'Paid', '2024-11-21 12:41:27 PM', '', 'GAURA V SINGH', '2024-11-21 12:41:27 PM', '', '1', '', '2024-11-21', '', '', '');
+
 -- --------------------------------------------------------
 
 --
@@ -1861,6 +1978,19 @@ CREATE TABLE `registration_payment_activities` (
   `RegPayRecordUpdatedBy` varchar(50) NOT NULL,
   `RegLastPayStatus` varchar(100) NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
+
+--
+-- Dumping data for table `registration_payment_activities`
+--
+
+INSERT INTO `registration_payment_activities` (`RegPayActivityId`, `RegPayId`, `RegPayActivityDate`, `RegPayPreviousDetails`, `RegPayRecordUpdatedBy`, `RegLastPayStatus`) VALUES
+(1, '1', '2024-11-21', 'MUxURkNBKzFHSXJHMDZMMkZDaFByQT09', '1', 'Paid'),
+(2, '2', '2024-11-21', 'MUxURkNBKzFHSXJHMDZMMkZDaFByQT09', '1', 'Paid'),
+(3, '3', '2024-11-21', 'V1NzSEdXMml6RTFTdTZJMDFNVUV2K1U5UGJUZFliaDVNOTh0Si9ORHpPTEwyemRRYkg1ZWM1Qm9GZTAwMzRURHhYcUgyOHlCNzlDNjJlQUV2TTFLN3lkS1E0RGI0UmhjODFIZk8wZlA0cGE0TlFrSTVxZ0h6VUt6ZjdmYnpZK3N1QnA5T2t3M1pTczRDMklPSUNZWDAwQnJVSE83eEg1aSs4cEYvWWxyN3FpbTFJcGU3dndvTlpQUG94ckRmNzRHM0ZVS0Y4QzZXcko4RnlhR3ZYQUpoZjNQbUdudHlya3VKRzRDOElsZXNKNEFlVjcvMkc4dU9XYkh3L01vNGFBZFRzWTBxbE02TmVYYnkwVUE0d1I3WWJMSnVIdjZGdGJIazkraExHQXZ3bDBXK2VnZ1dZUjBhcktIY2xiTVFDeXFORXZUaTBQOHNnSDh4UXl5TXR0eU1heEtyYlJZdWg3aEU1UWdtMkwzeVI3K3JNMjFuN0FPQzJtZWxkWFNyb3BqdUJPbGVHelJDZDk3VWRqWCsxSDdHTHo3N3FMTC9tbTVraVdxVjFDMXhMRDN4Ti9OUXdiVnYvdVJKT1pBQk5PdnQ3UkZuZWZVeGkra1hqWTZwalZ2UUVRWjM3azVrdzBWeG5JakdGbVZCYnlpTk9iR2tHRlZQWEpxamJ0bnBqY0RSMGFZTWFPdVd4RU1CUWdFdEpJUVZFNWNwbVhTT3hUU1NHNDdnck5QMHl4WjAwZWNkVXVubWJ5aWxOMDVseXY0eUJEU1ZhK0RtM3htamRVbFpLSTN2QT09', '1', 'Pending'),
+(4, '3', '2024-11-21', 'TXpLbzBHUC9KNEU0VEx3QTJpQXNLTkhtYlN5T1RtWEpXZHdSdkNnano3RWVsNDBtU25FYWJVTWVvMklJT0FtTVhoUzV1bWxjaXJsaHhGNDhuMWUxN1RYdXdSSjlZbzdhUWpBbGJoenBNazE3Y2FwakpHRmlIa1dhai91R0xaNFl0VU5tK3dYMllBM0lMTkZ2NERkS3VRWVBkLzg1N2dRcEUxK3VFaHllYnhoaithZTJsUXg4ejcyM2ZVbURyVFB5Y2ZWeUZWZU0rQmtyQmYrcDh5YmI1eDV4MURHQjhObDBlYmI5ZGNUZ2MxU1hzYklveDZPbmJ4VzArNTRoc3ZXUWdod2ovU0NqMFNIcXhCK1E2TCtVT3BHZEErMDFObnVvTnBjT04vRUNPZW5DNG5IWDBBZ3FERFdZTHlVeHg5VzViTXIxWkVwMml6V3l5K1MzYkY1MkVSWWpOelE1ZmRucyticTZ6alp6Q0p6MzVsRnhNMXFIN2Yza0NGTWd1QlA0VFd6dGVpcnd2MGpTQzlnZUhVeU5JejM1TXhJN1dja29mUkZmZTVST0J2UlVhUnJ5SWRjN0lYT21LUEY1TWFYRU9aU0ZoR1FobW5xSFhzMkdkMi9VWkZrZlhzZWJma3hoeUlQV2w0VWZqRkR3cW5va0xlUUtMZ3dIVkJ4ZGdYNzk=', '1', 'Paid'),
+(5, '4', '2024-11-21', 'MUxURkNBKzFHSXJHMDZMMkZDaFByQT09', '1', 'Issued'),
+(6, '4', '2024-11-21', 'MUxURkNBKzFHSXJHMDZMMkZDaFByQT09', '1', 'Cleared'),
+(7, '5', '2024-11-21', 'MUxURkNBKzFHSXJHMDZMMkZDaFByQT09', '1', 'Paid');
 
 -- --------------------------------------------------------
 
@@ -3246,7 +3376,7 @@ ALTER TABLE `assets_returned`
 -- AUTO_INCREMENT for table `bookings`
 --
 ALTER TABLE `bookings`
-  MODIFY `bookingId` int(10) NOT NULL AUTO_INCREMENT;
+  MODIFY `bookingId` int(10) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=2;
 
 --
 -- AUTO_INCREMENT for table `booking_refunds`
@@ -3330,13 +3460,13 @@ ALTER TABLE `configurations`
 -- AUTO_INCREMENT for table `config_email_template_headers`
 --
 ALTER TABLE `config_email_template_headers`
-  MODIFY `config_email_template_csv_header_id` int(10) NOT NULL AUTO_INCREMENT;
+  MODIFY `config_email_template_csv_header_id` int(10) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=10;
 
 --
 -- AUTO_INCREMENT for table `config_holidays`
 --
 ALTER TABLE `config_holidays`
-  MODIFY `ConfigHolidayid` int(10) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=5;
+  MODIFY `ConfigHolidayid` int(10) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=9;
 
 --
 -- AUTO_INCREMENT for table `config_locations`
@@ -3354,13 +3484,13 @@ ALTER TABLE `config_mail_sender`
 -- AUTO_INCREMENT for table `config_mail_templates`
 --
 ALTER TABLE `config_mail_templates`
-  MODIFY `config_mail_template_id` int(10) NOT NULL AUTO_INCREMENT;
+  MODIFY `config_mail_template_id` int(10) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=2;
 
 --
 -- AUTO_INCREMENT for table `config_mail_template_attachements`
 --
 ALTER TABLE `config_mail_template_attachements`
-  MODIFY `config_mail_template_attachment_id` int(10) NOT NULL AUTO_INCREMENT;
+  MODIFY `config_mail_template_attachment_id` int(10) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=2;
 
 --
 -- AUTO_INCREMENT for table `config_modules`
@@ -3420,25 +3550,25 @@ ALTER TABLE `creatives`
 -- AUTO_INCREMENT for table `customers`
 --
 ALTER TABLE `customers`
-  MODIFY `CustomerId` int(10) NOT NULL AUTO_INCREMENT;
+  MODIFY `CustomerId` int(10) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=2;
 
 --
 -- AUTO_INCREMENT for table `customer_address`
 --
 ALTER TABLE `customer_address`
-  MODIFY `CustAddressId` int(10) NOT NULL AUTO_INCREMENT;
+  MODIFY `CustAddressId` int(10) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=3;
 
 --
 -- AUTO_INCREMENT for table `customer_co_address_details`
 --
 ALTER TABLE `customer_co_address_details`
-  MODIFY `CustomerCoAddressId` int(10) NOT NULL AUTO_INCREMENT;
+  MODIFY `CustomerCoAddressId` int(10) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=2;
 
 --
 -- AUTO_INCREMENT for table `customer_co_details`
 --
 ALTER TABLE `customer_co_details`
-  MODIFY `CustCoId` int(10) NOT NULL AUTO_INCREMENT;
+  MODIFY `CustCoId` int(10) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=2;
 
 --
 -- AUTO_INCREMENT for table `customer_co_documents`
@@ -3450,13 +3580,13 @@ ALTER TABLE `customer_co_documents`
 -- AUTO_INCREMENT for table `customer_documents`
 --
 ALTER TABLE `customer_documents`
-  MODIFY `CustomerDocumentId` int(10) NOT NULL AUTO_INCREMENT;
+  MODIFY `CustomerDocumentId` int(10) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=2;
 
 --
 -- AUTO_INCREMENT for table `customer_nominees`
 --
 ALTER TABLE `customer_nominees`
-  MODIFY `CustNomineeId` int(10) NOT NULL AUTO_INCREMENT;
+  MODIFY `CustNomineeId` int(10) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=2;
 
 --
 -- AUTO_INCREMENT for table `customer_notifications`
@@ -3588,7 +3718,7 @@ ALTER TABLE `payroll_deductions`
 -- AUTO_INCREMENT for table `projects`
 --
 ALTER TABLE `projects`
-  MODIFY `ProjectsId` int(100) NOT NULL AUTO_INCREMENT;
+  MODIFY `ProjectsId` int(100) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=2;
 
 --
 -- AUTO_INCREMENT for table `project_media_files`
@@ -3660,7 +3790,7 @@ ALTER TABLE `reception_visitors`
 -- AUTO_INCREMENT for table `registrations`
 --
 ALTER TABLE `registrations`
-  MODIFY `RegistrationId` int(10) NOT NULL AUTO_INCREMENT;
+  MODIFY `RegistrationId` int(10) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=2;
 
 --
 -- AUTO_INCREMENT for table `registration_activities`
@@ -3672,13 +3802,13 @@ ALTER TABLE `registration_activities`
 -- AUTO_INCREMENT for table `registration_charges`
 --
 ALTER TABLE `registration_charges`
-  MODIFY `RegChargeId` int(100) NOT NULL AUTO_INCREMENT;
+  MODIFY `RegChargeId` int(100) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=2;
 
 --
 -- AUTO_INCREMENT for table `registration_members`
 --
 ALTER TABLE `registration_members`
-  MODIFY `RegMemberId` int(100) NOT NULL AUTO_INCREMENT;
+  MODIFY `RegMemberId` int(100) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=3;
 
 --
 -- AUTO_INCREMENT for table `registration_nominee_docs`
@@ -3702,13 +3832,13 @@ ALTER TABLE `registration_nom_transfer_docs`
 -- AUTO_INCREMENT for table `registration_payments`
 --
 ALTER TABLE `registration_payments`
-  MODIFY `RegPaymentId` int(100) NOT NULL AUTO_INCREMENT;
+  MODIFY `RegPaymentId` int(100) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=6;
 
 --
 -- AUTO_INCREMENT for table `registration_payment_activities`
 --
 ALTER TABLE `registration_payment_activities`
-  MODIFY `RegPayActivityId` int(100) NOT NULL AUTO_INCREMENT;
+  MODIFY `RegPayActivityId` int(100) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=8;
 
 --
 -- AUTO_INCREMENT for table `registration_refunds`
@@ -3732,19 +3862,19 @@ ALTER TABLE `systemlogs`
 -- AUTO_INCREMENT for table `temp_email_uploaded_headers`
 --
 ALTER TABLE `temp_email_uploaded_headers`
-  MODIFY `temp_email_uploaded_header_id` int(10) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=26;
+  MODIFY `temp_email_uploaded_header_id` int(10) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=32;
 
 --
 -- AUTO_INCREMENT for table `temp_email_uploaded_header_values`
 --
 ALTER TABLE `temp_email_uploaded_header_values`
-  MODIFY `temp_email_uploaded_header_value_id` int(100) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=314;
+  MODIFY `temp_email_uploaded_header_value_id` int(100) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=338;
 
 --
 -- AUTO_INCREMENT for table `temp_email_upload_handler`
 --
 ALTER TABLE `temp_email_upload_handler`
-  MODIFY `temp_email_upload_handler_id` int(10) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=9;
+  MODIFY `temp_email_upload_handler_id` int(10) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=11;
 
 --
 -- AUTO_INCREMENT for table `trainings`

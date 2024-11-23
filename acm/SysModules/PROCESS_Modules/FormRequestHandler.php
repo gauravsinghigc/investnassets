@@ -60,20 +60,20 @@ function IfIssetSession($data, $default = null)
 //POST DATA
 function POST($data, $enc = null)
 {
-  $results = IfRequested("POST", $data, $enc);
+  $results = IfRequested("POST", $data, null, $enc);
   return $results;
 }
 
 //GET DATA
 function GET($data, $enc = null)
 {
-  $results = IfRequested("GET", $data, $enc);
+  $results = IfRequested("GET", $data, null, $enc);
   return $results;
 }
 
 //Request DATA
 function REQUEST($data, $enc = null)
 {
-  $results = IfRequested("REQUEST", $data, $enc);
+  $results = IfRequested("REQUEST", $data, null, $enc);
   return $results;
 }

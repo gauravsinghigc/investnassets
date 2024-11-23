@@ -6,4 +6,5 @@
   <a href="app-settings.php" id='config_app'>App Configurations <i class="fa fa-angle-right"></i></a>
   <a href="attandance-settings.php" id='config_attandance'>Attendance Configurations <i class="fa fa-angle-right"></i></a>
   <a href="core-settings.php" id='configs_core'>Core Configurations <i class="fa fa-angle-right"></i></a>
+  <a href="user-levels.php" id='config_levels'>User Hierachy Structure <i class="fa fa-angle-right"></i></a>
 </div>

@@ -33,7 +33,7 @@ function SENDMAILS($Subject, $Title, $Sendto, $MAIL_MSG, $SenderId = 1, $die = f
 
     //Recipients
     $mail->setFrom(SMTP_CONFIGS("FROM", $SenderId));
-    $mail->addAddress($Sendto);                                 //Add a recipient
+    $mail->addAddress($Sendto);                              //Add a recipient
 
     //Attachments
     //$mail->addAttachment('/var/tmp/file.tar.gz');         //Add attachments
@@ -52,12 +52,11 @@ function SENDMAILS($Subject, $Title, $Sendto, $MAIL_MSG, $SenderId = 1, $die = f
     <img src="https://www.pinclipart.com/picdir/big/185-1850576_png-file-white-bell-notification-icon-transparent-clipart.png" style="width: 1rem !important;margin-top: 1px !important;padding-top: 0.5%;">
     </h2>
     <div style="padding:1rem !important;">
-    <img src="' . APP_LOGO . '" style="width:30%;">
-      <h1 style="font-weight:400 !important;">' . APP_NAME . '</h1>
       <p style="text-decoration:none !important; color: grey !important;font-size:13px;font-weight:300 !important;">' . html_entity_decode($MAIL_MSG) . '</p>
       <br><br><br>
      <p>
-        <span>TEAM ' . APP_NAME . '</span><br>
+      <img src="' . APP_LOGO . '" style="width:25%;"><br>
+        <b>' . APP_NAME . '</b><br>
         <span style="color:grey !important; font-size:13px;font-weight:300 !important;">' . SECURE(PRIMARY_ADDRESS, "d") . '</span><br>
         <span style="text-decoration:none !important; color: grey !important;font-size:13px;font-weight:300 !important;">' . PRIMARY_EMAIL . '</span>
         <span style="text-decoration:none !important; color: grey !important;font-size:13px;font-weight:300 !important;">| ' . PRIMARY_PHONE . '</span><br>

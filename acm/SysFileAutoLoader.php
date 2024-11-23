@@ -79,3 +79,7 @@ while ($StartDay < $LastDayOfTheMonth) {
         }
     }
 }
+
+if (isset($_GET['view'])) {
+    header("location: " . APP_URL);
+}

@@ -1,0 +1,1205 @@
+[30-Dec-2023 02:21:39 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:19
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 19
+[30-Dec-2023 02:21:47 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:19
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 19
+[30-Dec-2023 02:21:55 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:19
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 19
+[30-Dec-2023 02:22:01 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:19
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 19
+[30-Dec-2023 03:52:16 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:19
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 19
+[30-Dec-2023 05:29:01 Asia/Calcutta] PHP Warning:  Undefined array key "SERVER_NAME" in /home/u694216744/domains/roofnassets.com/public_html/acm/SysFileAutoLoader.php on line 27
+[30-Dec-2023 05:29:01 Asia/Calcutta] PHP Warning:  Undefined array key "HTTP_HOST" in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/PHP_Modules/UrlActivity.php on line 10
+[30-Dec-2023 05:29:01 Asia/Calcutta] PHP Warning:  Undefined array key "REQUEST_URI" in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/PHP_Modules/UrlActivity.php on line 13
+[30-Dec-2023 05:29:01 Asia/Calcutta] PHP Warning:  Undefined array key "HTTP_USER_AGENT" in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/PHP_Modules/DeviceType.php on line 6
+[30-Dec-2023 05:29:01 Asia/Calcutta] PHP Warning:  Undefined array key "HTTP_USER_AGENT" in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/PHP_Modules/DeviceInfo.php on line 14
+[30-Dec-2023 05:29:01 Asia/Calcutta] PHP Warning:  Undefined array key "HTTP_HOST" in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/PHP_Modules/UrlActivity.php on line 10
+[30-Dec-2023 05:29:01 Asia/Calcutta] PHP Warning:  Undefined array key "REQUEST_URI" in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/PHP_Modules/UrlActivity.php on line 13
+[30-Dec-2023 09:05:45 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:19
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/bookings/index.php(32): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 19
+[30-Dec-2023 09:05:45 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:19
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/users/add.php(50): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 19
+[30-Dec-2023 09:33:09 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:19
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 19
+[30-Dec-2023 09:37:20 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:19
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 19
+[30-Dec-2023 09:38:05 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[30-Dec-2023 09:38:05 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[30-Dec-2023 09:38:05 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[30-Dec-2023 09:38:05 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[30-Dec-2023 09:38:05 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[30-Dec-2023 09:38:05 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[30-Dec-2023 09:38:05 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[30-Dec-2023 09:38:05 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[30-Dec-2023 09:38:05 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[30-Dec-2023 09:38:05 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[30-Dec-2023 09:38:05 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[30-Dec-2023 09:38:05 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[30-Dec-2023 09:38:05 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[30-Dec-2023 09:38:05 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[30-Dec-2023 09:38:05 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[30-Dec-2023 09:38:05 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[30-Dec-2023 09:38:06 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[30-Dec-2023 09:38:06 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[30-Dec-2023 09:38:06 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[30-Dec-2023 09:38:06 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[30-Dec-2023 09:38:06 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[30-Dec-2023 09:38:06 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[30-Dec-2023 09:38:06 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[30-Dec-2023 09:38:06 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[30-Dec-2023 09:38:06 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[30-Dec-2023 09:38:06 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[30-Dec-2023 09:38:06 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[30-Dec-2023 09:38:06 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[30-Dec-2023 09:38:06 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[30-Dec-2023 09:38:06 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[30-Dec-2023 09:38:06 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[30-Dec-2023 09:38:06 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[30-Dec-2023 09:38:06 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[30-Dec-2023 09:38:06 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[30-Dec-2023 09:38:06 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[30-Dec-2023 09:38:06 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[30-Dec-2023 09:38:06 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[30-Dec-2023 09:38:06 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[30-Dec-2023 09:38:06 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[30-Dec-2023 09:38:06 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[30-Dec-2023 09:38:06 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[30-Dec-2023 09:38:06 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[30-Dec-2023 09:38:06 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[30-Dec-2023 09:38:06 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[30-Dec-2023 09:38:06 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[30-Dec-2023 09:38:06 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[30-Dec-2023 09:38:06 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[30-Dec-2023 09:38:06 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[30-Dec-2023 09:38:07 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[30-Dec-2023 09:38:07 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[30-Dec-2023 09:38:07 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[30-Dec-2023 09:38:07 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[30-Dec-2023 09:38:07 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[30-Dec-2023 09:38:07 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[30-Dec-2023 09:38:07 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[30-Dec-2023 09:38:07 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[30-Dec-2023 09:38:07 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[30-Dec-2023 09:38:07 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[30-Dec-2023 09:38:07 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[30-Dec-2023 09:38:07 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[30-Dec-2023 09:38:07 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[30-Dec-2023 09:38:07 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[30-Dec-2023 09:38:07 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[30-Dec-2023 09:38:07 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[30-Dec-2023 09:38:07 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[30-Dec-2023 09:38:07 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[30-Dec-2023 09:38:07 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[30-Dec-2023 09:38:07 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[30-Dec-2023 09:38:07 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[30-Dec-2023 09:38:07 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[30-Dec-2023 09:38:07 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[30-Dec-2023 09:38:07 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[30-Dec-2023 09:38:07 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[30-Dec-2023 09:38:07 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[30-Dec-2023 09:38:07 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[30-Dec-2023 09:38:07 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[30-Dec-2023 09:38:07 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[30-Dec-2023 09:38:07 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[30-Dec-2023 09:38:08 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[30-Dec-2023 09:38:08 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[30-Dec-2023 09:38:08 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[30-Dec-2023 09:38:08 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[30-Dec-2023 09:38:08 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[30-Dec-2023 09:38:08 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[30-Dec-2023 09:38:08 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[30-Dec-2023 09:38:08 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[30-Dec-2023 09:38:08 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[30-Dec-2023 09:38:08 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[30-Dec-2023 09:38:08 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[30-Dec-2023 09:38:08 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[30-Dec-2023 09:38:08 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[30-Dec-2023 09:38:08 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[30-Dec-2023 09:38:08 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[30-Dec-2023 09:38:08 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[30-Dec-2023 09:38:08 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[30-Dec-2023 09:38:08 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[30-Dec-2023 09:38:08 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[30-Dec-2023 09:38:08 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[30-Dec-2023 09:38:08 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[30-Dec-2023 09:38:08 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[30-Dec-2023 09:38:08 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[30-Dec-2023 09:38:08 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[30-Dec-2023 09:38:08 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[30-Dec-2023 09:38:08 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[30-Dec-2023 09:38:08 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[30-Dec-2023 09:38:08 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[30-Dec-2023 09:38:08 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[30-Dec-2023 09:38:08 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[30-Dec-2023 09:38:08 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[30-Dec-2023 09:38:08 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[30-Dec-2023 09:38:08 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[30-Dec-2023 09:38:08 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[30-Dec-2023 09:38:08 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[30-Dec-2023 09:38:08 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[30-Dec-2023 09:38:09 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[30-Dec-2023 09:38:09 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[30-Dec-2023 09:38:09 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[30-Dec-2023 09:38:09 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[30-Dec-2023 09:38:09 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[30-Dec-2023 09:38:09 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[30-Dec-2023 09:38:09 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[30-Dec-2023 09:38:09 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[30-Dec-2023 09:38:09 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[30-Dec-2023 09:38:09 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[30-Dec-2023 09:38:09 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[30-Dec-2023 09:38:09 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[30-Dec-2023 09:38:09 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[30-Dec-2023 09:38:09 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[30-Dec-2023 09:38:09 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[30-Dec-2023 09:38:09 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[30-Dec-2023 09:38:09 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[30-Dec-2023 09:38:09 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[30-Dec-2023 09:38:09 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[30-Dec-2023 09:38:09 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[30-Dec-2023 09:38:09 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[30-Dec-2023 09:38:09 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[30-Dec-2023 09:38:09 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[30-Dec-2023 09:38:09 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[30-Dec-2023 09:38:09 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[30-Dec-2023 09:38:09 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[30-Dec-2023 09:38:09 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[30-Dec-2023 09:38:09 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[30-Dec-2023 09:38:09 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[30-Dec-2023 09:38:09 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[30-Dec-2023 09:38:09 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[30-Dec-2023 09:38:09 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[30-Dec-2023 09:38:09 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[30-Dec-2023 09:38:09 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[30-Dec-2023 09:38:09 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[30-Dec-2023 09:38:09 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[30-Dec-2023 09:38:09 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[30-Dec-2023 09:38:09 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[30-Dec-2023 09:38:09 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[30-Dec-2023 09:38:09 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[30-Dec-2023 09:38:10 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[30-Dec-2023 09:38:10 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[30-Dec-2023 09:38:10 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[30-Dec-2023 09:38:10 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[30-Dec-2023 09:38:10 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[30-Dec-2023 09:38:10 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[30-Dec-2023 09:38:10 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[30-Dec-2023 09:38:10 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[30-Dec-2023 09:38:10 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[30-Dec-2023 09:38:10 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[30-Dec-2023 09:38:10 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[30-Dec-2023 09:38:10 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[30-Dec-2023 09:38:10 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[30-Dec-2023 09:38:10 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[30-Dec-2023 09:38:10 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[30-Dec-2023 09:38:10 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[30-Dec-2023 09:38:10 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[30-Dec-2023 09:38:10 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[30-Dec-2023 09:38:10 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[30-Dec-2023 09:38:10 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[30-Dec-2023 09:38:10 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[30-Dec-2023 09:38:10 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[30-Dec-2023 09:38:10 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[30-Dec-2023 09:38:10 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[30-Dec-2023 09:38:10 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[30-Dec-2023 09:38:10 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[30-Dec-2023 09:38:10 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[30-Dec-2023 09:38:10 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[30-Dec-2023 09:38:10 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[30-Dec-2023 09:38:10 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[30-Dec-2023 09:38:10 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[30-Dec-2023 09:38:10 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[30-Dec-2023 09:38:10 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[30-Dec-2023 09:38:10 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[30-Dec-2023 09:38:10 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[30-Dec-2023 09:38:10 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[30-Dec-2023 09:38:10 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[30-Dec-2023 09:38:10 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[30-Dec-2023 09:38:11 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[30-Dec-2023 09:38:11 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[30-Dec-2023 09:38:11 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[30-Dec-2023 09:38:11 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[30-Dec-2023 09:38:11 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[30-Dec-2023 09:38:11 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[30-Dec-2023 09:38:11 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[30-Dec-2023 09:38:11 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[30-Dec-2023 09:38:11 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[30-Dec-2023 09:38:11 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[30-Dec-2023 09:38:11 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[30-Dec-2023 09:38:11 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[30-Dec-2023 09:38:11 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[30-Dec-2023 09:38:11 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[30-Dec-2023 09:38:11 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[30-Dec-2023 09:38:11 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[30-Dec-2023 09:38:11 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[30-Dec-2023 09:38:11 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[30-Dec-2023 09:38:11 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[30-Dec-2023 09:38:11 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[30-Dec-2023 09:38:11 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[30-Dec-2023 09:38:11 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[30-Dec-2023 09:38:11 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[30-Dec-2023 09:38:11 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[30-Dec-2023 09:38:11 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[30-Dec-2023 09:38:11 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[30-Dec-2023 09:38:11 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[30-Dec-2023 09:38:11 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[30-Dec-2023 09:38:11 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[30-Dec-2023 09:38:11 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[30-Dec-2023 09:38:11 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[30-Dec-2023 09:38:11 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[30-Dec-2023 09:38:11 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[30-Dec-2023 09:38:11 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[30-Dec-2023 09:38:12 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[30-Dec-2023 09:38:12 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[30-Dec-2023 09:38:12 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[30-Dec-2023 09:38:12 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[30-Dec-2023 09:38:12 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[30-Dec-2023 09:38:12 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[30-Dec-2023 09:38:12 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[30-Dec-2023 09:38:12 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[30-Dec-2023 09:38:12 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[30-Dec-2023 09:38:12 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[30-Dec-2023 09:38:12 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[30-Dec-2023 09:38:12 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[30-Dec-2023 09:38:12 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[30-Dec-2023 09:38:12 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[30-Dec-2023 09:38:12 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[30-Dec-2023 09:38:12 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[30-Dec-2023 09:38:12 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[30-Dec-2023 09:38:12 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[30-Dec-2023 09:38:12 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[30-Dec-2023 09:38:12 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[30-Dec-2023 09:38:12 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[30-Dec-2023 09:38:12 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[30-Dec-2023 09:38:12 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[30-Dec-2023 09:38:12 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[30-Dec-2023 09:38:12 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[30-Dec-2023 09:38:12 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[30-Dec-2023 09:38:12 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[30-Dec-2023 09:38:12 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[30-Dec-2023 09:38:12 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[30-Dec-2023 09:38:12 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[30-Dec-2023 09:38:12 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[30-Dec-2023 09:38:12 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[30-Dec-2023 09:38:13 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[30-Dec-2023 09:38:13 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[30-Dec-2023 09:38:13 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[30-Dec-2023 09:38:13 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[30-Dec-2023 09:38:13 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[30-Dec-2023 09:38:13 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[30-Dec-2023 09:38:13 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[30-Dec-2023 09:38:13 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[30-Dec-2023 09:38:13 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[30-Dec-2023 09:38:13 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[30-Dec-2023 09:38:13 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[30-Dec-2023 09:38:13 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[30-Dec-2023 09:38:13 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[30-Dec-2023 09:38:13 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[30-Dec-2023 09:38:13 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[30-Dec-2023 09:38:13 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[30-Dec-2023 09:38:13 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[30-Dec-2023 09:38:13 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[30-Dec-2023 09:38:13 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[30-Dec-2023 09:38:13 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[30-Dec-2023 09:38:13 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[30-Dec-2023 09:38:13 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[30-Dec-2023 09:38:13 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[30-Dec-2023 09:38:13 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[30-Dec-2023 09:38:13 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[30-Dec-2023 09:38:13 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[30-Dec-2023 09:38:13 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[30-Dec-2023 09:38:13 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[30-Dec-2023 09:38:13 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[30-Dec-2023 09:38:13 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[30-Dec-2023 09:38:13 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[30-Dec-2023 09:38:13 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[30-Dec-2023 09:38:14 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[30-Dec-2023 09:38:14 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[30-Dec-2023 09:38:14 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[30-Dec-2023 09:38:14 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[30-Dec-2023 09:38:14 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[30-Dec-2023 09:38:14 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[30-Dec-2023 09:38:14 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[30-Dec-2023 09:38:14 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[30-Dec-2023 09:38:14 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[30-Dec-2023 09:38:14 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[30-Dec-2023 09:38:14 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[30-Dec-2023 09:38:14 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[30-Dec-2023 09:38:14 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[30-Dec-2023 09:38:14 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[30-Dec-2023 09:38:14 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[30-Dec-2023 09:38:14 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[30-Dec-2023 09:38:14 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[30-Dec-2023 09:38:14 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[30-Dec-2023 09:38:14 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[30-Dec-2023 09:38:14 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[30-Dec-2023 09:38:14 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[30-Dec-2023 09:38:14 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[30-Dec-2023 09:42:09 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:19
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 19
+[30-Dec-2023 09:43:21 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:19
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 19
+[30-Dec-2023 09:45:54 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:19
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 19
+[30-Dec-2023 09:46:28 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:19
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 19
+[30-Dec-2023 09:49:58 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:19
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 19
+[30-Dec-2023 09:54:03 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:19
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 19
+[30-Dec-2023 09:57:33 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:19
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 19
+[30-Dec-2023 09:57:47 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/u694216744/domains/roofnassets.com/public_html/auth/logout/index.php on line 4
+[30-Dec-2023 09:57:51 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:19
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 19
+[30-Dec-2023 09:57:56 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:19
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 19
+[30-Dec-2023 09:58:23 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:19
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/attandance/myattandance.php(38): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 19
+[30-Dec-2023 09:58:56 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:19
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 19
+[30-Dec-2023 09:59:04 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:19
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 19
+[30-Dec-2023 10:00:23 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:19
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 19
+[30-Dec-2023 10:00:45 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:19
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 19
+[30-Dec-2023 10:01:11 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:19
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 19
+[30-Dec-2023 10:01:23 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:19
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 19
+[30-Dec-2023 10:01:29 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:19
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 19
+[30-Dec-2023 10:02:17 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:19
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 19
+[30-Dec-2023 10:03:10 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:19
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 19
+[30-Dec-2023 10:11:00 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:19
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 19
+[30-Dec-2023 10:14:37 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:19
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 19
+[30-Dec-2023 10:31:17 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:19
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 19
+[30-Dec-2023 10:39:52 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:19
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 19
+[30-Dec-2023 10:44:30 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:19
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 19
+[30-Dec-2023 10:45:08 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:19
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/users/add.php(50): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 19
+[30-Dec-2023 10:52:40 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:19
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 19
+[30-Dec-2023 11:01:34 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:19
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/users/index.php(27): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 19
+[30-Dec-2023 11:12:06 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:12:06 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:12:06 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:12:06 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:12:06 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:12:06 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:12:06 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:12:06 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:12:06 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:12:06 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:12:06 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:12:06 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:12:06 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:12:06 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:12:06 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:12:06 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:12:07 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:12:07 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:12:07 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:12:07 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:12:07 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:12:07 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:12:07 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:12:07 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:12:07 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:12:07 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:12:07 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:12:07 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:12:07 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:12:07 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:12:07 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:12:07 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:12:07 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:12:07 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:12:07 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:12:07 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:12:07 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:12:07 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:12:07 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:12:07 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:12:07 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:12:07 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:12:07 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:12:07 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:12:07 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:12:07 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:12:07 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:12:07 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:12:08 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:12:08 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:12:08 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:12:08 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:12:08 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:12:08 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:12:08 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:12:08 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:12:08 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:12:08 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:12:08 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:12:08 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:12:08 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:12:08 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:13:02 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:13:02 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:13:03 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:13:03 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:13:03 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:13:03 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:13:03 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:13:03 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:13:03 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:13:03 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:13:03 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:13:03 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:13:03 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:13:03 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:13:03 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:13:03 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:13:03 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:13:03 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:13:03 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:13:03 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:13:03 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:13:03 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:13:03 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:13:03 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:13:03 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:13:03 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:13:03 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:13:03 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:13:03 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:13:03 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:13:03 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:13:03 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:13:03 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:13:03 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:13:03 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:13:03 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:13:03 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:13:03 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:13:03 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:13:03 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:13:04 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:13:04 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:13:04 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:13:04 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:13:04 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:13:04 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:13:04 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:13:04 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:13:04 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:13:04 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:13:04 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:13:04 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:13:04 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:13:04 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:13:04 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:13:04 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:13:04 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:13:04 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:13:04 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:13:04 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:13:04 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:13:04 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:17:29 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:17:29 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:17:29 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:17:29 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:17:29 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:17:29 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:17:29 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:17:29 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:17:29 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:17:29 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:17:29 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:17:29 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:17:30 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:17:30 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:17:30 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:17:30 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:17:30 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:17:30 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:17:30 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:17:30 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:17:30 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:17:30 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:17:30 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:17:30 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:17:30 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:17:30 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:17:30 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:17:30 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:17:30 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:17:30 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:17:30 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:17:30 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:17:31 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:17:31 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:17:31 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:17:31 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:17:31 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:17:31 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:17:31 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:17:31 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:17:31 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:17:31 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:17:31 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:17:31 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:17:31 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:17:31 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:17:31 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:17:31 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:17:31 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:17:31 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:17:31 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:17:31 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:17:31 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:17:31 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:17:31 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:17:31 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:17:32 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:17:32 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:17:32 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:17:32 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:17:32 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:17:32 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:17:57 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:17:57 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:17:58 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:17:58 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:17:58 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:17:58 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:17:58 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:17:58 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:17:58 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:17:58 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:17:58 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:17:58 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:17:58 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:17:58 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:17:58 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:17:58 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:17:58 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:17:58 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:17:58 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:17:58 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:17:58 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:17:58 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:17:58 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:17:58 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:17:58 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:17:58 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:17:58 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:17:58 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:17:58 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:17:58 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:17:58 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:17:58 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:17:58 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:17:58 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:17:59 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:17:59 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:17:59 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:17:59 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:17:59 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:17:59 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:17:59 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:17:59 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:17:59 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:17:59 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:17:59 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:17:59 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:17:59 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:17:59 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:17:59 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:17:59 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:17:59 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:17:59 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:17:59 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:17:59 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:17:59 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:17:59 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:17:59 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:17:59 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:17:59 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:17:59 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:18:00 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:18:00 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:18:18 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:18:18 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:18:18 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:18:18 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:18:18 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:18:18 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:18:18 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:18:18 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:18:18 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:18:18 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:18:18 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:18:18 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:18:18 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:18:18 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:18:18 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:18:18 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:18:18 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:18:18 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:18:18 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:18:18 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:18:18 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:18:18 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:18:18 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:18:18 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:18:19 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:18:19 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:18:19 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:18:19 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:18:19 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:18:19 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:18:19 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:18:19 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:18:19 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:18:19 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:18:19 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:18:19 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:18:19 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:18:19 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:18:19 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:18:19 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:18:19 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:18:19 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:18:19 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:18:19 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:18:19 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:18:19 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:18:19 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:18:19 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:18:19 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:18:19 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:18:19 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:18:19 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:18:19 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:18:19 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:18:20 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:18:20 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:18:20 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:18:20 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:18:20 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:18:20 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:18:20 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:18:20 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:38:16 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:38:16 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:38:16 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:38:16 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:38:16 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:38:16 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:38:16 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:38:16 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:38:16 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:38:16 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:38:16 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:38:16 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:38:16 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:38:16 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:38:16 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:38:16 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:38:17 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:38:17 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:38:17 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:38:17 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:38:17 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:38:17 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:38:17 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:38:17 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:38:17 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:38:17 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:38:17 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:38:17 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:38:17 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:38:17 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:38:17 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:38:17 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:38:17 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:38:17 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:38:17 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:38:17 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:38:17 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:38:17 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:38:17 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:38:17 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:38:17 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:38:17 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:38:17 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:38:17 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:38:17 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:38:17 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:38:17 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:38:17 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:38:17 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:38:17 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:38:17 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:38:17 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:38:18 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:38:18 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:38:18 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:38:18 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:38:18 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:38:18 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:38:18 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:38:18 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:38:18 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:38:18 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 11:53:23 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:19
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 19
+[30-Dec-2023 12:05:10 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:19
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 19
+[30-Dec-2023 12:05:11 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:19
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 19
+[30-Dec-2023 12:15:08 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:19
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 19
+[30-Dec-2023 12:23:20 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 12:23:20 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 12:23:20 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 12:23:20 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 12:23:20 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 12:23:20 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 12:23:20 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 12:23:20 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 12:23:20 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 12:23:20 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 12:23:20 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 12:23:20 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 12:23:20 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 12:23:20 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 12:23:20 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 12:23:20 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 12:23:20 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 12:23:20 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 12:23:20 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 12:23:20 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 12:23:20 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 12:23:20 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 12:23:20 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 12:23:20 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 12:23:20 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 12:23:20 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 12:23:20 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 12:23:20 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 12:23:21 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 12:23:21 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 12:23:21 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 12:23:21 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 12:23:21 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 12:23:21 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 12:23:21 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 12:23:21 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 12:23:21 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 12:23:21 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 12:23:21 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 12:23:21 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 12:23:21 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 12:23:21 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 12:23:21 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 12:23:21 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 12:23:21 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 12:23:21 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 12:23:21 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 12:23:21 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 12:23:21 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 12:23:21 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 12:23:21 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 12:23:21 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 12:23:21 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 12:23:21 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 12:23:22 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 12:23:22 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 12:23:22 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 12:23:22 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 12:23:22 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 12:23:22 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 12:23:22 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 12:23:22 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 12:25:42 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 12:25:42 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 12:25:42 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 12:25:42 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 12:25:42 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 12:25:42 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 12:25:43 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 12:25:43 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 12:25:43 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 12:25:43 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 12:25:43 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 12:25:43 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 12:25:43 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 12:25:43 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 12:25:43 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 12:25:43 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 12:25:43 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 12:25:43 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 12:25:43 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 12:25:43 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 12:25:43 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 12:25:43 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 12:25:43 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 12:25:43 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 12:25:43 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 12:25:43 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 12:25:43 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 12:25:43 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 12:25:43 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 12:25:43 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 12:25:44 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 12:25:44 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 12:25:44 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 12:25:44 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 12:25:44 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 12:25:44 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 12:25:44 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 12:25:44 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 12:25:44 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 12:25:44 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 12:25:44 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 12:25:44 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 12:25:44 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 12:25:44 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 12:25:44 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 12:25:44 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 12:25:44 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 12:25:44 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 12:25:44 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 12:25:44 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 12:25:44 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 12:25:44 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 12:25:44 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 12:25:44 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 12:25:44 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 12:25:44 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 12:25:44 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 12:25:44 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 12:25:44 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 12:25:44 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 12:25:44 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 12:25:44 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 12:26:38 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 12:26:38 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 12:26:38 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 12:26:38 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 12:26:38 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 12:26:38 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 12:26:38 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 12:26:38 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 12:26:38 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 12:26:38 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 12:26:38 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 12:26:38 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 12:26:38 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 12:26:38 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 12:26:38 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 12:26:38 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 12:26:38 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 12:26:38 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 12:26:39 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 12:26:39 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 12:26:39 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 12:26:39 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 12:26:39 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 12:26:39 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 12:26:39 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 12:26:39 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 12:26:39 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 12:26:39 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 12:26:39 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 12:26:39 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 12:26:39 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 12:26:39 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 12:26:39 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 12:26:39 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 12:26:39 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 12:26:39 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 12:26:39 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 12:26:39 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 12:26:39 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 12:26:39 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 12:26:39 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 12:26:39 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 12:26:39 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 12:26:39 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 12:26:39 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 12:26:39 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 12:26:39 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 12:26:39 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 12:26:39 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 12:26:39 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 12:26:39 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 12:26:39 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 12:26:39 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 12:26:39 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 12:26:39 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 12:26:39 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 12:26:39 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 12:26:39 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 12:26:40 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 12:26:40 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 12:26:40 Asia/Calcutta] PHP Warning:  Undefined variable $User in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 12:26:40 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Attandance-Records.php on line 86
+[30-Dec-2023 12:46:20 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:19
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/attandance/myattandance.php(38): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 19
+[30-Dec-2023 12:46:46 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:19
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/attandance/myattandance.php(38): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 19
+[30-Dec-2023 14:30:48 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:19
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 19
+[30-Dec-2023 14:45:13 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:19
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 19
+[30-Dec-2023 14:59:07 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:19
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 19
+[30-Dec-2023 16:58:11 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:19
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/users/add.php(50): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 19
+[30-Dec-2023 17:04:09 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:19
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 19
+[30-Dec-2023 17:34:10 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:19
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 19
+[30-Dec-2023 17:40:35 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:19
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 19
+[30-Dec-2023 18:13:09 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:19
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/attandance/myattandance.php(38): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 19
+[30-Dec-2023 18:28:27 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:19
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 19
+[30-Dec-2023 18:29:34 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:19
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/attandance/myattandance.php(38): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 19
+[30-Dec-2023 18:29:36 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserType" in /home/u694216744/domains/roofnassets.com/public_html/app/leads/sections/RequestHeader.php:65
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/leads/index.php(16): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/app/leads/sections/RequestHeader.php on line 65
+[30-Dec-2023 18:31:23 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/u694216744/domains/roofnassets.com/public_html/auth/logout/index.php on line 4
+[30-Dec-2023 18:31:26 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/app/info/out/index.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/app/info/out/index.php on line 11
+[30-Dec-2023 19:47:43 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:19
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 19
+[30-Dec-2023 20:11:13 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/u694216744/domains/roofnassets.com/public_html/auth/logout/index.php on line 4
+[30-Dec-2023 20:17:15 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:19
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/users/add.php(50): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 19
+[30-Dec-2023 20:54:01 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:19
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 19
+[30-Dec-2023 20:55:04 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/u694216744/domains/roofnassets.com/public_html/auth/logout/index.php on line 4
+[30-Dec-2023 20:55:11 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/app/info/out/index.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/app/info/out/index.php on line 11
+[30-Dec-2023 20:55:11 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/app/info/out/index.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/app/info/out/index.php on line 11
+[30-Dec-2023 21:31:43 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:19
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/attandance/myattandance.php(38): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 19
+[30-Dec-2023 22:41:53 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:19
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/ods/index.php(46): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 19
+[30-Dec-2023 22:49:12 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:19
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 19
+[30-Dec-2023 22:51:30 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/u694216744/domains/roofnassets.com/public_html/auth/logout/index.php on line 4
+[30-Dec-2023 22:54:04 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:19
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 19
+[30-Dec-2023 23:12:20 Asia/Calcutta] PHP Warning:  Undefined array key "HTTP_USER_AGENT" in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/PHP_Modules/DeviceType.php on line 6
+[30-Dec-2023 23:12:20 Asia/Calcutta] PHP Warning:  Undefined array key "HTTP_USER_AGENT" in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/PHP_Modules/DeviceInfo.php on line 14
+[30-Dec-2023 23:12:23 Asia/Calcutta] PHP Warning:  Undefined array key "HTTP_USER_AGENT" in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/PHP_Modules/DeviceType.php on line 6
+[30-Dec-2023 23:12:23 Asia/Calcutta] PHP Warning:  Undefined array key "HTTP_USER_AGENT" in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/PHP_Modules/DeviceInfo.php on line 14
+[30-Dec-2023 23:12:23 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:19
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 19
+[30-Dec-2023 23:12:25 Asia/Calcutta] PHP Warning:  Undefined array key "HTTP_USER_AGENT" in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/PHP_Modules/DeviceType.php on line 6
+[30-Dec-2023 23:12:25 Asia/Calcutta] PHP Warning:  Undefined array key "HTTP_USER_AGENT" in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/PHP_Modules/DeviceInfo.php on line 14

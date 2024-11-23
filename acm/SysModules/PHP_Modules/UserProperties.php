@@ -11,7 +11,7 @@ define("USER_ROLES", array("Admin", "TeamMember", "EMAIL_SENDER", "HR", "Digital
 define("USER_GENDER", array("Male", "Female", "Others"));
 
 //user salutation 
-define("SALUTATION", array("Mr.", "Mrs.", "Miss", "M/s", "Prof", "Dr."));
+define("SALUTATION", array("Mr.", "Mrs.", "Miss", "M/s", "Prof", "Dr.", "Select Sal *"));
 
 define("USER_DASHBOARDS", [
     "Admin" => "admin-dash.php",

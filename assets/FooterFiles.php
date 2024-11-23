@@ -2,3 +2,4 @@
 <script src="<?php echo ASSETS_URL; ?>/plugins/jquery/jquery.min.js"></script>
 <script src="<?php echo ASSETS_URL; ?>/js/adminlte.min.js"></script>
 <script src="<?php echo ASSETS_URL; ?>/js/app.js"></script>
+<script src="<?php echo ASSETS_URL; ?>/js/statecity.js"></script>

@@ -1,6 +1,5 @@
 <div class="row">
-
-    <form class="form col-md-6 mt-3" action="<?php echo CONTROLLER; ?>" method="POST">
+    <form class="form col-md-6 mb-3" action="<?php echo CONTROLLER; ?>" method="POST">
         <?php FormPrimaryInputs(true); ?>
         <div class="shadow-sm p-2 roundeds">
             <div class="row">
@@ -25,7 +24,7 @@
             </div>
         </div>
     </form>
-    <form class="col-md-6" action="<?php echo CONTROLLER; ?>" method="POST">
+    <form class="col-md-6 mb-3" action="<?php echo CONTROLLER; ?>" method="POST">
         <?php FormPrimaryInputs(true, [
             "UserAccessUserId" => $REQ_UserId,
         ]) ?>
@@ -63,6 +62,31 @@
             </div>
         </div>
     </form>
+</div>
+
+<div class="row">
+    <div class="col-md-12">
+        <hr>
+        <?php
+        if (isset($_GET['gsi_remove'])) {
+            echo CONFIRM_DELETE_POPUP(
+                "UserList",
+                [
+                    "remove_team_member" => true,
+                    "control_id" => $REQ_UserId
+                ],
+                null,
+                "<i class='fa fa-trash text-danger'></i> Remove Account Permanently",
+                'btn btn-xs btn-default text-danger'
+            );
+        } ?>
+        <form action="<?php echo CONTROLLER; ?>" method="POST">
+            <?php echo FormPrimaryInputs(true, [
+                "UserId" => $REQ_UserId
+            ]); ?>
+            <button type='submit' name='RE_SEND_ONBOARDING_LINK' class="btn btn-primary btn-md"><i class='fa fa-fresh'></i> Re-send ON-Boarding Link</button>
+        </form>
+    </div>
 </div>
 <script>
     function checkpass() {

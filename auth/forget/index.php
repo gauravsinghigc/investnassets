@@ -18,7 +18,7 @@ $PageIcon = "fa-refresh";
     <?php include "../../assets/HeaderFiles.php"; ?>
 </head>
 
-<body class="hold-transition login-page" style="background-image:url('<?php echo LOGIN_BG_IMAGE; ?>');background-size:cover;background-repeat:no-repeat;">
+<body class="hold-transition login-page app-bg" style="background-size:cover;background-repeat:no-repeat;">
     <div class="login-box">
         <?php include "../../include/app/Loader.php"; ?>
 
@@ -49,6 +49,8 @@ $PageIcon = "fa-refresh";
         </div>
 
     </div>
+
+
     <?php include "../../assets/FooterFiles.php"; ?>
 </body>
 

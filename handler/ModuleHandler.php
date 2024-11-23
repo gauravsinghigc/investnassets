@@ -14,3 +14,4 @@ if ($handles = opendir(__DIR__ . "/ModuleController")) {
 }
 
 echo "null";
+echo "</p></section>";

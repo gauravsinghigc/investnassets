@@ -1,6 +1,8 @@
 <?php
 $req = "<span class='text-danger'>*</span>";
 
+DEFINE("REQUIRED", $req);
+
 function moneyFormatIndia($number)
 {
   $decimal = (string)($number - floor($number));
@@ -263,13 +265,13 @@ function StatusView($data)
 function StatusViewWithText($data)
 {
   if ($data == "1" or $data == 1 or $data == "Active" or $data == "ACTIVE") {
-    return "<span class='text-success'> Active</span>";
+    return "<span class='text-success'><i class='fa fa-check-circle-o'></i> Active</span>";
   } elseif ($data == "2" or $data == 2 or $data == "Inactive" or $data == "INACTIVE" or $data == "0") {
-    return "<span class='text-danger'> Inactive</span>";
+    return "<span class='text-danger'><i class='fa fa-warning'></i> Inactive</span>";
   } elseif ($data == "3" or $data == 3 or $data == "Deleted" or $data == "DELETED") {
-    return "<span class='text-danger'><i>Deleted!</i></span>";
+    return "<span class='text-danger'><i class='fa fa-trash'></i> Deleted!</span>";
   } else {
-    return "<span class='text-danger'>$data</span>";
+    return "<span class='text-danger'><i class='fa fa-info-circle'></i> $data</span>";
   }
 }
 
@@ -367,6 +369,17 @@ function PaginationFooter(int $TotalItems = 0, $RedirectForAll = "index.php")
     </div>
   </div>
 <?php
+}
+
+//label function 
+function LABEL($text, $required = false)
+{
+  if ($required == true) {
+    $req = REQUIRED;
+  } else {
+    $req = "";
+  }
+  return '<label>' . $text . " " . $req . '</label>';
 }
 
 //define constants

@@ -1,0 +1,898 @@
+[14-Jan-2024 00:02:51 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:18
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 18
+[14-Jan-2024 00:03:07 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:18
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 18
+[14-Jan-2024 00:03:19 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:18
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 18
+[14-Jan-2024 01:09:57 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:18
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 18
+[14-Jan-2024 02:23:53 Asia/Calcutta] PHP Warning:  Undefined array key "HTTP_USER_AGENT" in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/PHP_Modules/DeviceType.php on line 6
+[14-Jan-2024 02:23:53 Asia/Calcutta] PHP Warning:  Undefined array key "HTTP_USER_AGENT" in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/PHP_Modules/DeviceInfo.php on line 14
+[14-Jan-2024 03:11:24 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:18
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 18
+[14-Jan-2024 04:29:14 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:18
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 18
+[14-Jan-2024 05:25:23 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:18
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 18
+[14-Jan-2024 05:30:02 Asia/Calcutta] PHP Warning:  Undefined array key "SERVER_NAME" in /home/u694216744/domains/roofnassets.com/public_html/acm/SysFileAutoLoader.php on line 27
+[14-Jan-2024 05:30:02 Asia/Calcutta] PHP Warning:  Undefined array key "HTTP_HOST" in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/PHP_Modules/UrlActivity.php on line 10
+[14-Jan-2024 05:30:02 Asia/Calcutta] PHP Warning:  Undefined array key "REQUEST_URI" in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/PHP_Modules/UrlActivity.php on line 13
+[14-Jan-2024 05:30:02 Asia/Calcutta] PHP Warning:  Undefined array key "HTTP_USER_AGENT" in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/PHP_Modules/DeviceType.php on line 6
+[14-Jan-2024 05:30:02 Asia/Calcutta] PHP Warning:  Undefined array key "HTTP_USER_AGENT" in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/PHP_Modules/DeviceInfo.php on line 14
+[14-Jan-2024 05:30:02 Asia/Calcutta] PHP Warning:  Undefined array key "HTTP_HOST" in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/PHP_Modules/UrlActivity.php on line 10
+[14-Jan-2024 05:30:02 Asia/Calcutta] PHP Warning:  Undefined array key "REQUEST_URI" in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/PHP_Modules/UrlActivity.php on line 13
+[14-Jan-2024 05:32:02 Asia/Calcutta] PHP Warning:  Undefined array key "SERVER_NAME" in /home/u694216744/domains/roofnassets.com/public_html/acm/SysFileAutoLoader.php on line 27
+[14-Jan-2024 05:32:02 Asia/Calcutta] PHP Warning:  Undefined array key "HTTP_HOST" in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/PHP_Modules/UrlActivity.php on line 10
+[14-Jan-2024 05:32:02 Asia/Calcutta] PHP Warning:  Undefined array key "REQUEST_URI" in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/PHP_Modules/UrlActivity.php on line 13
+[14-Jan-2024 05:32:02 Asia/Calcutta] PHP Warning:  Undefined array key "HTTP_USER_AGENT" in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/PHP_Modules/DeviceType.php on line 6
+[14-Jan-2024 05:32:02 Asia/Calcutta] PHP Warning:  Undefined array key "HTTP_USER_AGENT" in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/PHP_Modules/DeviceInfo.php on line 14
+[14-Jan-2024 05:32:02 Asia/Calcutta] PHP Warning:  Undefined array key "HTTP_HOST" in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/PHP_Modules/UrlActivity.php on line 10
+[14-Jan-2024 05:32:02 Asia/Calcutta] PHP Warning:  Undefined array key "REQUEST_URI" in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/PHP_Modules/UrlActivity.php on line 13
+[14-Jan-2024 05:34:01 Asia/Calcutta] PHP Warning:  Undefined array key "SERVER_NAME" in /home/u694216744/domains/roofnassets.com/public_html/acm/SysFileAutoLoader.php on line 27
+[14-Jan-2024 05:34:01 Asia/Calcutta] PHP Warning:  Undefined array key "HTTP_HOST" in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/PHP_Modules/UrlActivity.php on line 10
+[14-Jan-2024 05:34:01 Asia/Calcutta] PHP Warning:  Undefined array key "REQUEST_URI" in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/PHP_Modules/UrlActivity.php on line 13
+[14-Jan-2024 05:34:01 Asia/Calcutta] PHP Warning:  Undefined array key "HTTP_USER_AGENT" in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/PHP_Modules/DeviceType.php on line 6
+[14-Jan-2024 05:34:01 Asia/Calcutta] PHP Warning:  Undefined array key "HTTP_USER_AGENT" in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/PHP_Modules/DeviceInfo.php on line 14
+[14-Jan-2024 05:34:01 Asia/Calcutta] PHP Warning:  Undefined array key "HTTP_HOST" in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/PHP_Modules/UrlActivity.php on line 10
+[14-Jan-2024 05:34:01 Asia/Calcutta] PHP Warning:  Undefined array key "REQUEST_URI" in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/PHP_Modules/UrlActivity.php on line 13
+[14-Jan-2024 05:36:02 Asia/Calcutta] PHP Warning:  Undefined array key "SERVER_NAME" in /home/u694216744/domains/roofnassets.com/public_html/acm/SysFileAutoLoader.php on line 27
+[14-Jan-2024 05:36:02 Asia/Calcutta] PHP Warning:  Undefined array key "HTTP_HOST" in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/PHP_Modules/UrlActivity.php on line 10
+[14-Jan-2024 05:36:02 Asia/Calcutta] PHP Warning:  Undefined array key "REQUEST_URI" in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/PHP_Modules/UrlActivity.php on line 13
+[14-Jan-2024 05:36:02 Asia/Calcutta] PHP Warning:  Undefined array key "HTTP_USER_AGENT" in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/PHP_Modules/DeviceType.php on line 6
+[14-Jan-2024 05:36:02 Asia/Calcutta] PHP Warning:  Undefined array key "HTTP_USER_AGENT" in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/PHP_Modules/DeviceInfo.php on line 14
+[14-Jan-2024 05:36:02 Asia/Calcutta] PHP Warning:  Undefined array key "HTTP_HOST" in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/PHP_Modules/UrlActivity.php on line 10
+[14-Jan-2024 05:36:02 Asia/Calcutta] PHP Warning:  Undefined array key "REQUEST_URI" in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/PHP_Modules/UrlActivity.php on line 13
+[14-Jan-2024 05:38:02 Asia/Calcutta] PHP Warning:  Undefined array key "SERVER_NAME" in /home/u694216744/domains/roofnassets.com/public_html/acm/SysFileAutoLoader.php on line 27
+[14-Jan-2024 05:38:02 Asia/Calcutta] PHP Warning:  Undefined array key "HTTP_HOST" in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/PHP_Modules/UrlActivity.php on line 10
+[14-Jan-2024 05:38:02 Asia/Calcutta] PHP Warning:  Undefined array key "REQUEST_URI" in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/PHP_Modules/UrlActivity.php on line 13
+[14-Jan-2024 05:38:02 Asia/Calcutta] PHP Warning:  Undefined array key "HTTP_USER_AGENT" in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/PHP_Modules/DeviceType.php on line 6
+[14-Jan-2024 05:38:02 Asia/Calcutta] PHP Warning:  Undefined array key "HTTP_USER_AGENT" in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/PHP_Modules/DeviceInfo.php on line 14
+[14-Jan-2024 05:38:02 Asia/Calcutta] PHP Warning:  Undefined array key "HTTP_HOST" in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/PHP_Modules/UrlActivity.php on line 10
+[14-Jan-2024 05:38:02 Asia/Calcutta] PHP Warning:  Undefined array key "REQUEST_URI" in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/PHP_Modules/UrlActivity.php on line 13
+[14-Jan-2024 05:40:02 Asia/Calcutta] PHP Warning:  Undefined array key "SERVER_NAME" in /home/u694216744/domains/roofnassets.com/public_html/acm/SysFileAutoLoader.php on line 27
+[14-Jan-2024 05:40:02 Asia/Calcutta] PHP Warning:  Undefined array key "HTTP_HOST" in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/PHP_Modules/UrlActivity.php on line 10
+[14-Jan-2024 05:40:02 Asia/Calcutta] PHP Warning:  Undefined array key "REQUEST_URI" in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/PHP_Modules/UrlActivity.php on line 13
+[14-Jan-2024 05:40:02 Asia/Calcutta] PHP Warning:  Undefined array key "HTTP_USER_AGENT" in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/PHP_Modules/DeviceType.php on line 6
+[14-Jan-2024 05:40:02 Asia/Calcutta] PHP Warning:  Undefined array key "HTTP_USER_AGENT" in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/PHP_Modules/DeviceInfo.php on line 14
+[14-Jan-2024 05:40:02 Asia/Calcutta] PHP Warning:  Undefined array key "HTTP_HOST" in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/PHP_Modules/UrlActivity.php on line 10
+[14-Jan-2024 05:40:02 Asia/Calcutta] PHP Warning:  Undefined array key "REQUEST_URI" in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/PHP_Modules/UrlActivity.php on line 13
+[14-Jan-2024 05:42:01 Asia/Calcutta] PHP Warning:  Undefined array key "SERVER_NAME" in /home/u694216744/domains/roofnassets.com/public_html/acm/SysFileAutoLoader.php on line 27
+[14-Jan-2024 05:42:01 Asia/Calcutta] PHP Warning:  Undefined array key "HTTP_HOST" in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/PHP_Modules/UrlActivity.php on line 10
+[14-Jan-2024 05:42:01 Asia/Calcutta] PHP Warning:  Undefined array key "REQUEST_URI" in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/PHP_Modules/UrlActivity.php on line 13
+[14-Jan-2024 05:42:01 Asia/Calcutta] PHP Warning:  Undefined array key "HTTP_USER_AGENT" in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/PHP_Modules/DeviceType.php on line 6
+[14-Jan-2024 05:42:01 Asia/Calcutta] PHP Warning:  Undefined array key "HTTP_USER_AGENT" in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/PHP_Modules/DeviceInfo.php on line 14
+[14-Jan-2024 05:42:01 Asia/Calcutta] PHP Warning:  Undefined array key "HTTP_HOST" in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/PHP_Modules/UrlActivity.php on line 10
+[14-Jan-2024 05:42:01 Asia/Calcutta] PHP Warning:  Undefined array key "REQUEST_URI" in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/PHP_Modules/UrlActivity.php on line 13
+[14-Jan-2024 05:44:01 Asia/Calcutta] PHP Warning:  Undefined array key "SERVER_NAME" in /home/u694216744/domains/roofnassets.com/public_html/acm/SysFileAutoLoader.php on line 27
+[14-Jan-2024 05:44:01 Asia/Calcutta] PHP Warning:  Undefined array key "HTTP_HOST" in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/PHP_Modules/UrlActivity.php on line 10
+[14-Jan-2024 05:44:01 Asia/Calcutta] PHP Warning:  Undefined array key "REQUEST_URI" in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/PHP_Modules/UrlActivity.php on line 13
+[14-Jan-2024 05:44:01 Asia/Calcutta] PHP Warning:  Undefined array key "HTTP_USER_AGENT" in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/PHP_Modules/DeviceType.php on line 6
+[14-Jan-2024 05:44:01 Asia/Calcutta] PHP Warning:  Undefined array key "HTTP_USER_AGENT" in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/PHP_Modules/DeviceInfo.php on line 14
+[14-Jan-2024 05:44:01 Asia/Calcutta] PHP Warning:  Undefined array key "HTTP_HOST" in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/PHP_Modules/UrlActivity.php on line 10
+[14-Jan-2024 05:44:01 Asia/Calcutta] PHP Warning:  Undefined array key "REQUEST_URI" in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/PHP_Modules/UrlActivity.php on line 13
+[14-Jan-2024 05:46:01 Asia/Calcutta] PHP Warning:  Undefined array key "SERVER_NAME" in /home/u694216744/domains/roofnassets.com/public_html/acm/SysFileAutoLoader.php on line 27
+[14-Jan-2024 05:46:01 Asia/Calcutta] PHP Warning:  Undefined array key "HTTP_HOST" in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/PHP_Modules/UrlActivity.php on line 10
+[14-Jan-2024 05:46:01 Asia/Calcutta] PHP Warning:  Undefined array key "REQUEST_URI" in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/PHP_Modules/UrlActivity.php on line 13
+[14-Jan-2024 05:46:01 Asia/Calcutta] PHP Warning:  Undefined array key "HTTP_USER_AGENT" in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/PHP_Modules/DeviceType.php on line 6
+[14-Jan-2024 05:46:01 Asia/Calcutta] PHP Warning:  Undefined array key "HTTP_USER_AGENT" in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/PHP_Modules/DeviceInfo.php on line 14
+[14-Jan-2024 05:46:01 Asia/Calcutta] PHP Warning:  Undefined array key "HTTP_HOST" in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/PHP_Modules/UrlActivity.php on line 10
+[14-Jan-2024 05:46:01 Asia/Calcutta] PHP Warning:  Undefined array key "REQUEST_URI" in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/PHP_Modules/UrlActivity.php on line 13
+[14-Jan-2024 05:48:01 Asia/Calcutta] PHP Warning:  Undefined array key "SERVER_NAME" in /home/u694216744/domains/roofnassets.com/public_html/acm/SysFileAutoLoader.php on line 27
+[14-Jan-2024 05:48:01 Asia/Calcutta] PHP Warning:  Undefined array key "HTTP_HOST" in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/PHP_Modules/UrlActivity.php on line 10
+[14-Jan-2024 05:48:01 Asia/Calcutta] PHP Warning:  Undefined array key "REQUEST_URI" in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/PHP_Modules/UrlActivity.php on line 13
+[14-Jan-2024 05:48:01 Asia/Calcutta] PHP Warning:  Undefined array key "HTTP_USER_AGENT" in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/PHP_Modules/DeviceType.php on line 6
+[14-Jan-2024 05:48:01 Asia/Calcutta] PHP Warning:  Undefined array key "HTTP_USER_AGENT" in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/PHP_Modules/DeviceInfo.php on line 14
+[14-Jan-2024 05:48:01 Asia/Calcutta] PHP Warning:  Undefined array key "HTTP_HOST" in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/PHP_Modules/UrlActivity.php on line 10
+[14-Jan-2024 05:48:01 Asia/Calcutta] PHP Warning:  Undefined array key "REQUEST_URI" in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/PHP_Modules/UrlActivity.php on line 13
+[14-Jan-2024 05:50:01 Asia/Calcutta] PHP Warning:  Undefined array key "SERVER_NAME" in /home/u694216744/domains/roofnassets.com/public_html/acm/SysFileAutoLoader.php on line 27
+[14-Jan-2024 05:50:01 Asia/Calcutta] PHP Warning:  Undefined array key "HTTP_HOST" in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/PHP_Modules/UrlActivity.php on line 10
+[14-Jan-2024 05:50:01 Asia/Calcutta] PHP Warning:  Undefined array key "REQUEST_URI" in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/PHP_Modules/UrlActivity.php on line 13
+[14-Jan-2024 05:50:01 Asia/Calcutta] PHP Warning:  Undefined array key "HTTP_USER_AGENT" in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/PHP_Modules/DeviceType.php on line 6
+[14-Jan-2024 05:50:01 Asia/Calcutta] PHP Warning:  Undefined array key "HTTP_USER_AGENT" in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/PHP_Modules/DeviceInfo.php on line 14
+[14-Jan-2024 05:50:01 Asia/Calcutta] PHP Warning:  Undefined array key "HTTP_HOST" in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/PHP_Modules/UrlActivity.php on line 10
+[14-Jan-2024 05:50:01 Asia/Calcutta] PHP Warning:  Undefined array key "REQUEST_URI" in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/PHP_Modules/UrlActivity.php on line 13
+[14-Jan-2024 05:52:02 Asia/Calcutta] PHP Warning:  Undefined array key "SERVER_NAME" in /home/u694216744/domains/roofnassets.com/public_html/acm/SysFileAutoLoader.php on line 27
+[14-Jan-2024 05:52:02 Asia/Calcutta] PHP Warning:  Undefined array key "HTTP_HOST" in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/PHP_Modules/UrlActivity.php on line 10
+[14-Jan-2024 05:52:02 Asia/Calcutta] PHP Warning:  Undefined array key "REQUEST_URI" in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/PHP_Modules/UrlActivity.php on line 13
+[14-Jan-2024 05:52:02 Asia/Calcutta] PHP Warning:  Undefined array key "HTTP_USER_AGENT" in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/PHP_Modules/DeviceType.php on line 6
+[14-Jan-2024 05:52:02 Asia/Calcutta] PHP Warning:  Undefined array key "HTTP_USER_AGENT" in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/PHP_Modules/DeviceInfo.php on line 14
+[14-Jan-2024 05:52:02 Asia/Calcutta] PHP Warning:  Undefined array key "HTTP_HOST" in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/PHP_Modules/UrlActivity.php on line 10
+[14-Jan-2024 05:52:02 Asia/Calcutta] PHP Warning:  Undefined array key "REQUEST_URI" in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/PHP_Modules/UrlActivity.php on line 13
+[14-Jan-2024 05:54:01 Asia/Calcutta] PHP Warning:  Undefined array key "SERVER_NAME" in /home/u694216744/domains/roofnassets.com/public_html/acm/SysFileAutoLoader.php on line 27
+[14-Jan-2024 05:54:01 Asia/Calcutta] PHP Warning:  Undefined array key "HTTP_HOST" in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/PHP_Modules/UrlActivity.php on line 10
+[14-Jan-2024 05:54:01 Asia/Calcutta] PHP Warning:  Undefined array key "REQUEST_URI" in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/PHP_Modules/UrlActivity.php on line 13
+[14-Jan-2024 05:54:01 Asia/Calcutta] PHP Warning:  Undefined array key "HTTP_USER_AGENT" in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/PHP_Modules/DeviceType.php on line 6
+[14-Jan-2024 05:54:01 Asia/Calcutta] PHP Warning:  Undefined array key "HTTP_USER_AGENT" in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/PHP_Modules/DeviceInfo.php on line 14
+[14-Jan-2024 05:54:01 Asia/Calcutta] PHP Warning:  Undefined array key "HTTP_HOST" in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/PHP_Modules/UrlActivity.php on line 10
+[14-Jan-2024 05:54:01 Asia/Calcutta] PHP Warning:  Undefined array key "REQUEST_URI" in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/PHP_Modules/UrlActivity.php on line 13
+[14-Jan-2024 05:56:01 Asia/Calcutta] PHP Warning:  Undefined array key "SERVER_NAME" in /home/u694216744/domains/roofnassets.com/public_html/acm/SysFileAutoLoader.php on line 27
+[14-Jan-2024 05:56:01 Asia/Calcutta] PHP Warning:  Undefined array key "HTTP_HOST" in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/PHP_Modules/UrlActivity.php on line 10
+[14-Jan-2024 05:56:01 Asia/Calcutta] PHP Warning:  Undefined array key "REQUEST_URI" in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/PHP_Modules/UrlActivity.php on line 13
+[14-Jan-2024 05:56:01 Asia/Calcutta] PHP Warning:  Undefined array key "HTTP_USER_AGENT" in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/PHP_Modules/DeviceType.php on line 6
+[14-Jan-2024 05:56:01 Asia/Calcutta] PHP Warning:  Undefined array key "HTTP_USER_AGENT" in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/PHP_Modules/DeviceInfo.php on line 14
+[14-Jan-2024 05:56:01 Asia/Calcutta] PHP Warning:  Undefined array key "HTTP_HOST" in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/PHP_Modules/UrlActivity.php on line 10
+[14-Jan-2024 05:56:01 Asia/Calcutta] PHP Warning:  Undefined array key "REQUEST_URI" in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/PHP_Modules/UrlActivity.php on line 13
+[14-Jan-2024 05:58:02 Asia/Calcutta] PHP Warning:  Undefined array key "SERVER_NAME" in /home/u694216744/domains/roofnassets.com/public_html/acm/SysFileAutoLoader.php on line 27
+[14-Jan-2024 05:58:02 Asia/Calcutta] PHP Warning:  Undefined array key "HTTP_HOST" in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/PHP_Modules/UrlActivity.php on line 10
+[14-Jan-2024 05:58:02 Asia/Calcutta] PHP Warning:  Undefined array key "REQUEST_URI" in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/PHP_Modules/UrlActivity.php on line 13
+[14-Jan-2024 05:58:02 Asia/Calcutta] PHP Warning:  Undefined array key "HTTP_USER_AGENT" in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/PHP_Modules/DeviceType.php on line 6
+[14-Jan-2024 05:58:02 Asia/Calcutta] PHP Warning:  Undefined array key "HTTP_USER_AGENT" in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/PHP_Modules/DeviceInfo.php on line 14
+[14-Jan-2024 05:58:02 Asia/Calcutta] PHP Warning:  Undefined array key "HTTP_HOST" in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/PHP_Modules/UrlActivity.php on line 10
+[14-Jan-2024 05:58:02 Asia/Calcutta] PHP Warning:  Undefined array key "REQUEST_URI" in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/PHP_Modules/UrlActivity.php on line 13
+[14-Jan-2024 06:00:01 Asia/Calcutta] PHP Warning:  Undefined array key "SERVER_NAME" in /home/u694216744/domains/roofnassets.com/public_html/acm/SysFileAutoLoader.php on line 27
+[14-Jan-2024 06:00:01 Asia/Calcutta] PHP Warning:  Undefined array key "HTTP_HOST" in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/PHP_Modules/UrlActivity.php on line 10
+[14-Jan-2024 06:00:02 Asia/Calcutta] PHP Warning:  Undefined array key "REQUEST_URI" in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/PHP_Modules/UrlActivity.php on line 13
+[14-Jan-2024 06:00:02 Asia/Calcutta] PHP Warning:  Undefined array key "HTTP_USER_AGENT" in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/PHP_Modules/DeviceType.php on line 6
+[14-Jan-2024 06:00:02 Asia/Calcutta] PHP Warning:  Undefined array key "HTTP_USER_AGENT" in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/PHP_Modules/DeviceInfo.php on line 14
+[14-Jan-2024 06:00:02 Asia/Calcutta] PHP Warning:  Undefined array key "HTTP_HOST" in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/PHP_Modules/UrlActivity.php on line 10
+[14-Jan-2024 06:00:02 Asia/Calcutta] PHP Warning:  Undefined array key "REQUEST_URI" in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/PHP_Modules/UrlActivity.php on line 13
+[14-Jan-2024 06:02:01 Asia/Calcutta] PHP Warning:  Undefined array key "SERVER_NAME" in /home/u694216744/domains/roofnassets.com/public_html/acm/SysFileAutoLoader.php on line 27
+[14-Jan-2024 06:02:01 Asia/Calcutta] PHP Warning:  Undefined array key "HTTP_HOST" in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/PHP_Modules/UrlActivity.php on line 10
+[14-Jan-2024 06:02:01 Asia/Calcutta] PHP Warning:  Undefined array key "REQUEST_URI" in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/PHP_Modules/UrlActivity.php on line 13
+[14-Jan-2024 06:02:01 Asia/Calcutta] PHP Warning:  Undefined array key "HTTP_USER_AGENT" in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/PHP_Modules/DeviceType.php on line 6
+[14-Jan-2024 06:02:01 Asia/Calcutta] PHP Warning:  Undefined array key "HTTP_USER_AGENT" in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/PHP_Modules/DeviceInfo.php on line 14
+[14-Jan-2024 06:02:01 Asia/Calcutta] PHP Warning:  Undefined array key "HTTP_HOST" in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/PHP_Modules/UrlActivity.php on line 10
+[14-Jan-2024 06:02:01 Asia/Calcutta] PHP Warning:  Undefined array key "REQUEST_URI" in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/PHP_Modules/UrlActivity.php on line 13
+[14-Jan-2024 06:04:01 Asia/Calcutta] PHP Warning:  Undefined array key "SERVER_NAME" in /home/u694216744/domains/roofnassets.com/public_html/acm/SysFileAutoLoader.php on line 27
+[14-Jan-2024 06:04:01 Asia/Calcutta] PHP Warning:  Undefined array key "HTTP_HOST" in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/PHP_Modules/UrlActivity.php on line 10
+[14-Jan-2024 06:04:01 Asia/Calcutta] PHP Warning:  Undefined array key "REQUEST_URI" in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/PHP_Modules/UrlActivity.php on line 13
+[14-Jan-2024 06:04:01 Asia/Calcutta] PHP Warning:  Undefined array key "HTTP_USER_AGENT" in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/PHP_Modules/DeviceType.php on line 6
+[14-Jan-2024 06:04:01 Asia/Calcutta] PHP Warning:  Undefined array key "HTTP_USER_AGENT" in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/PHP_Modules/DeviceInfo.php on line 14
+[14-Jan-2024 06:04:01 Asia/Calcutta] PHP Warning:  Undefined array key "HTTP_HOST" in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/PHP_Modules/UrlActivity.php on line 10
+[14-Jan-2024 06:04:01 Asia/Calcutta] PHP Warning:  Undefined array key "REQUEST_URI" in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/PHP_Modules/UrlActivity.php on line 13
+[14-Jan-2024 06:06:01 Asia/Calcutta] PHP Warning:  Undefined array key "SERVER_NAME" in /home/u694216744/domains/roofnassets.com/public_html/acm/SysFileAutoLoader.php on line 27
+[14-Jan-2024 06:06:01 Asia/Calcutta] PHP Warning:  Undefined array key "HTTP_HOST" in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/PHP_Modules/UrlActivity.php on line 10
+[14-Jan-2024 06:06:01 Asia/Calcutta] PHP Warning:  Undefined array key "REQUEST_URI" in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/PHP_Modules/UrlActivity.php on line 13
+[14-Jan-2024 06:06:01 Asia/Calcutta] PHP Warning:  Undefined array key "HTTP_USER_AGENT" in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/PHP_Modules/DeviceType.php on line 6
+[14-Jan-2024 06:06:01 Asia/Calcutta] PHP Warning:  Undefined array key "HTTP_USER_AGENT" in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/PHP_Modules/DeviceInfo.php on line 14
+[14-Jan-2024 06:06:01 Asia/Calcutta] PHP Warning:  Undefined array key "HTTP_HOST" in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/PHP_Modules/UrlActivity.php on line 10
+[14-Jan-2024 06:06:01 Asia/Calcutta] PHP Warning:  Undefined array key "REQUEST_URI" in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/PHP_Modules/UrlActivity.php on line 13
+[14-Jan-2024 06:08:01 Asia/Calcutta] PHP Warning:  Undefined array key "SERVER_NAME" in /home/u694216744/domains/roofnassets.com/public_html/acm/SysFileAutoLoader.php on line 27
+[14-Jan-2024 06:08:01 Asia/Calcutta] PHP Warning:  Undefined array key "HTTP_HOST" in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/PHP_Modules/UrlActivity.php on line 10
+[14-Jan-2024 06:08:01 Asia/Calcutta] PHP Warning:  Undefined array key "REQUEST_URI" in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/PHP_Modules/UrlActivity.php on line 13
+[14-Jan-2024 06:08:01 Asia/Calcutta] PHP Warning:  Undefined array key "HTTP_USER_AGENT" in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/PHP_Modules/DeviceType.php on line 6
+[14-Jan-2024 06:08:01 Asia/Calcutta] PHP Warning:  Undefined array key "HTTP_USER_AGENT" in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/PHP_Modules/DeviceInfo.php on line 14
+[14-Jan-2024 06:08:01 Asia/Calcutta] PHP Warning:  Undefined array key "HTTP_HOST" in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/PHP_Modules/UrlActivity.php on line 10
+[14-Jan-2024 06:08:01 Asia/Calcutta] PHP Warning:  Undefined array key "REQUEST_URI" in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/PHP_Modules/UrlActivity.php on line 13
+[14-Jan-2024 06:10:02 Asia/Calcutta] PHP Warning:  Undefined array key "SERVER_NAME" in /home/u694216744/domains/roofnassets.com/public_html/acm/SysFileAutoLoader.php on line 27
+[14-Jan-2024 06:10:02 Asia/Calcutta] PHP Warning:  Undefined array key "HTTP_HOST" in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/PHP_Modules/UrlActivity.php on line 10
+[14-Jan-2024 06:10:02 Asia/Calcutta] PHP Warning:  Undefined array key "REQUEST_URI" in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/PHP_Modules/UrlActivity.php on line 13
+[14-Jan-2024 06:10:02 Asia/Calcutta] PHP Warning:  Undefined array key "HTTP_USER_AGENT" in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/PHP_Modules/DeviceType.php on line 6
+[14-Jan-2024 06:10:02 Asia/Calcutta] PHP Warning:  Undefined array key "HTTP_USER_AGENT" in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/PHP_Modules/DeviceInfo.php on line 14
+[14-Jan-2024 06:10:02 Asia/Calcutta] PHP Warning:  Undefined array key "HTTP_HOST" in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/PHP_Modules/UrlActivity.php on line 10
+[14-Jan-2024 06:10:02 Asia/Calcutta] PHP Warning:  Undefined array key "REQUEST_URI" in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/PHP_Modules/UrlActivity.php on line 13
+[14-Jan-2024 06:12:01 Asia/Calcutta] PHP Warning:  Undefined array key "SERVER_NAME" in /home/u694216744/domains/roofnassets.com/public_html/acm/SysFileAutoLoader.php on line 27
+[14-Jan-2024 06:12:01 Asia/Calcutta] PHP Warning:  Undefined array key "HTTP_HOST" in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/PHP_Modules/UrlActivity.php on line 10
+[14-Jan-2024 06:12:01 Asia/Calcutta] PHP Warning:  Undefined array key "REQUEST_URI" in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/PHP_Modules/UrlActivity.php on line 13
+[14-Jan-2024 06:12:01 Asia/Calcutta] PHP Warning:  Undefined array key "HTTP_USER_AGENT" in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/PHP_Modules/DeviceType.php on line 6
+[14-Jan-2024 06:12:01 Asia/Calcutta] PHP Warning:  Undefined array key "HTTP_USER_AGENT" in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/PHP_Modules/DeviceInfo.php on line 14
+[14-Jan-2024 06:12:01 Asia/Calcutta] PHP Warning:  Undefined array key "HTTP_HOST" in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/PHP_Modules/UrlActivity.php on line 10
+[14-Jan-2024 06:12:01 Asia/Calcutta] PHP Warning:  Undefined array key "REQUEST_URI" in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/PHP_Modules/UrlActivity.php on line 13
+[14-Jan-2024 06:14:02 Asia/Calcutta] PHP Warning:  Undefined array key "SERVER_NAME" in /home/u694216744/domains/roofnassets.com/public_html/acm/SysFileAutoLoader.php on line 27
+[14-Jan-2024 06:14:02 Asia/Calcutta] PHP Warning:  Undefined array key "HTTP_HOST" in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/PHP_Modules/UrlActivity.php on line 10
+[14-Jan-2024 06:14:02 Asia/Calcutta] PHP Warning:  Undefined array key "REQUEST_URI" in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/PHP_Modules/UrlActivity.php on line 13
+[14-Jan-2024 06:14:02 Asia/Calcutta] PHP Warning:  Undefined array key "HTTP_USER_AGENT" in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/PHP_Modules/DeviceType.php on line 6
+[14-Jan-2024 06:14:02 Asia/Calcutta] PHP Warning:  Undefined array key "HTTP_USER_AGENT" in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/PHP_Modules/DeviceInfo.php on line 14
+[14-Jan-2024 06:14:02 Asia/Calcutta] PHP Warning:  Undefined array key "HTTP_HOST" in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/PHP_Modules/UrlActivity.php on line 10
+[14-Jan-2024 06:14:02 Asia/Calcutta] PHP Warning:  Undefined array key "REQUEST_URI" in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/PHP_Modules/UrlActivity.php on line 13
+[14-Jan-2024 06:16:02 Asia/Calcutta] PHP Warning:  Undefined array key "SERVER_NAME" in /home/u694216744/domains/roofnassets.com/public_html/acm/SysFileAutoLoader.php on line 27
+[14-Jan-2024 06:16:02 Asia/Calcutta] PHP Warning:  Undefined array key "HTTP_HOST" in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/PHP_Modules/UrlActivity.php on line 10
+[14-Jan-2024 06:16:02 Asia/Calcutta] PHP Warning:  Undefined array key "REQUEST_URI" in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/PHP_Modules/UrlActivity.php on line 13
+[14-Jan-2024 06:16:02 Asia/Calcutta] PHP Warning:  Undefined array key "HTTP_USER_AGENT" in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/PHP_Modules/DeviceType.php on line 6
+[14-Jan-2024 06:16:02 Asia/Calcutta] PHP Warning:  Undefined array key "HTTP_USER_AGENT" in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/PHP_Modules/DeviceInfo.php on line 14
+[14-Jan-2024 06:16:02 Asia/Calcutta] PHP Warning:  Undefined array key "HTTP_HOST" in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/PHP_Modules/UrlActivity.php on line 10
+[14-Jan-2024 06:16:02 Asia/Calcutta] PHP Warning:  Undefined array key "REQUEST_URI" in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/PHP_Modules/UrlActivity.php on line 13
+[14-Jan-2024 06:18:02 Asia/Calcutta] PHP Warning:  Undefined array key "SERVER_NAME" in /home/u694216744/domains/roofnassets.com/public_html/acm/SysFileAutoLoader.php on line 27
+[14-Jan-2024 06:18:02 Asia/Calcutta] PHP Warning:  Undefined array key "HTTP_HOST" in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/PHP_Modules/UrlActivity.php on line 10
+[14-Jan-2024 06:18:02 Asia/Calcutta] PHP Warning:  Undefined array key "REQUEST_URI" in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/PHP_Modules/UrlActivity.php on line 13
+[14-Jan-2024 06:18:02 Asia/Calcutta] PHP Warning:  Undefined array key "HTTP_USER_AGENT" in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/PHP_Modules/DeviceType.php on line 6
+[14-Jan-2024 06:18:02 Asia/Calcutta] PHP Warning:  Undefined array key "HTTP_USER_AGENT" in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/PHP_Modules/DeviceInfo.php on line 14
+[14-Jan-2024 06:18:02 Asia/Calcutta] PHP Warning:  Undefined array key "HTTP_HOST" in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/PHP_Modules/UrlActivity.php on line 10
+[14-Jan-2024 06:18:02 Asia/Calcutta] PHP Warning:  Undefined array key "REQUEST_URI" in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/PHP_Modules/UrlActivity.php on line 13
+[14-Jan-2024 06:19:35 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/app/info/out/index.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/app/info/out/index.php on line 11
+[14-Jan-2024 06:19:36 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:18
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/users/add.php(50): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 18
+[14-Jan-2024 06:20:01 Asia/Calcutta] PHP Warning:  Undefined array key "SERVER_NAME" in /home/u694216744/domains/roofnassets.com/public_html/acm/SysFileAutoLoader.php on line 27
+[14-Jan-2024 06:20:01 Asia/Calcutta] PHP Warning:  Undefined array key "HTTP_HOST" in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/PHP_Modules/UrlActivity.php on line 10
+[14-Jan-2024 06:20:01 Asia/Calcutta] PHP Warning:  Undefined array key "REQUEST_URI" in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/PHP_Modules/UrlActivity.php on line 13
+[14-Jan-2024 06:20:01 Asia/Calcutta] PHP Warning:  Undefined array key "HTTP_USER_AGENT" in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/PHP_Modules/DeviceType.php on line 6
+[14-Jan-2024 06:20:01 Asia/Calcutta] PHP Warning:  Undefined array key "HTTP_USER_AGENT" in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/PHP_Modules/DeviceInfo.php on line 14
+[14-Jan-2024 06:20:01 Asia/Calcutta] PHP Warning:  Undefined array key "HTTP_HOST" in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/PHP_Modules/UrlActivity.php on line 10
+[14-Jan-2024 06:20:01 Asia/Calcutta] PHP Warning:  Undefined array key "REQUEST_URI" in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/PHP_Modules/UrlActivity.php on line 13
+[14-Jan-2024 06:22:01 Asia/Calcutta] PHP Warning:  Undefined array key "SERVER_NAME" in /home/u694216744/domains/roofnassets.com/public_html/acm/SysFileAutoLoader.php on line 27
+[14-Jan-2024 06:22:01 Asia/Calcutta] PHP Warning:  Undefined array key "HTTP_HOST" in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/PHP_Modules/UrlActivity.php on line 10
+[14-Jan-2024 06:22:01 Asia/Calcutta] PHP Warning:  Undefined array key "REQUEST_URI" in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/PHP_Modules/UrlActivity.php on line 13
+[14-Jan-2024 06:22:01 Asia/Calcutta] PHP Warning:  Undefined array key "HTTP_USER_AGENT" in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/PHP_Modules/DeviceType.php on line 6
+[14-Jan-2024 06:22:01 Asia/Calcutta] PHP Warning:  Undefined array key "HTTP_USER_AGENT" in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/PHP_Modules/DeviceInfo.php on line 14
+[14-Jan-2024 06:22:01 Asia/Calcutta] PHP Warning:  Undefined array key "HTTP_HOST" in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/PHP_Modules/UrlActivity.php on line 10
+[14-Jan-2024 06:22:01 Asia/Calcutta] PHP Warning:  Undefined array key "REQUEST_URI" in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/PHP_Modules/UrlActivity.php on line 13
+[14-Jan-2024 06:24:01 Asia/Calcutta] PHP Warning:  Undefined array key "SERVER_NAME" in /home/u694216744/domains/roofnassets.com/public_html/acm/SysFileAutoLoader.php on line 27
+[14-Jan-2024 06:24:01 Asia/Calcutta] PHP Warning:  Undefined array key "HTTP_HOST" in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/PHP_Modules/UrlActivity.php on line 10
+[14-Jan-2024 06:24:01 Asia/Calcutta] PHP Warning:  Undefined array key "REQUEST_URI" in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/PHP_Modules/UrlActivity.php on line 13
+[14-Jan-2024 06:24:01 Asia/Calcutta] PHP Warning:  Undefined array key "HTTP_USER_AGENT" in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/PHP_Modules/DeviceType.php on line 6
+[14-Jan-2024 06:24:01 Asia/Calcutta] PHP Warning:  Undefined array key "HTTP_USER_AGENT" in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/PHP_Modules/DeviceInfo.php on line 14
+[14-Jan-2024 06:24:01 Asia/Calcutta] PHP Warning:  Undefined array key "HTTP_HOST" in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/PHP_Modules/UrlActivity.php on line 10
+[14-Jan-2024 06:24:01 Asia/Calcutta] PHP Warning:  Undefined array key "REQUEST_URI" in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/PHP_Modules/UrlActivity.php on line 13
+[14-Jan-2024 06:26:02 Asia/Calcutta] PHP Warning:  Undefined array key "SERVER_NAME" in /home/u694216744/domains/roofnassets.com/public_html/acm/SysFileAutoLoader.php on line 27
+[14-Jan-2024 06:26:02 Asia/Calcutta] PHP Warning:  Undefined array key "HTTP_HOST" in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/PHP_Modules/UrlActivity.php on line 10
+[14-Jan-2024 06:26:02 Asia/Calcutta] PHP Warning:  Undefined array key "REQUEST_URI" in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/PHP_Modules/UrlActivity.php on line 13
+[14-Jan-2024 06:26:02 Asia/Calcutta] PHP Warning:  Undefined array key "HTTP_USER_AGENT" in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/PHP_Modules/DeviceType.php on line 6
+[14-Jan-2024 06:26:02 Asia/Calcutta] PHP Warning:  Undefined array key "HTTP_USER_AGENT" in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/PHP_Modules/DeviceInfo.php on line 14
+[14-Jan-2024 06:26:02 Asia/Calcutta] PHP Warning:  Undefined array key "HTTP_HOST" in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/PHP_Modules/UrlActivity.php on line 10
+[14-Jan-2024 06:26:02 Asia/Calcutta] PHP Warning:  Undefined array key "REQUEST_URI" in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/PHP_Modules/UrlActivity.php on line 13
+[14-Jan-2024 06:28:01 Asia/Calcutta] PHP Warning:  Undefined array key "SERVER_NAME" in /home/u694216744/domains/roofnassets.com/public_html/acm/SysFileAutoLoader.php on line 27
+[14-Jan-2024 06:28:01 Asia/Calcutta] PHP Warning:  Undefined array key "HTTP_HOST" in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/PHP_Modules/UrlActivity.php on line 10
+[14-Jan-2024 06:28:01 Asia/Calcutta] PHP Warning:  Undefined array key "REQUEST_URI" in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/PHP_Modules/UrlActivity.php on line 13
+[14-Jan-2024 06:28:01 Asia/Calcutta] PHP Warning:  Undefined array key "HTTP_USER_AGENT" in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/PHP_Modules/DeviceType.php on line 6
+[14-Jan-2024 06:28:01 Asia/Calcutta] PHP Warning:  Undefined array key "HTTP_USER_AGENT" in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/PHP_Modules/DeviceInfo.php on line 14
+[14-Jan-2024 06:28:01 Asia/Calcutta] PHP Warning:  Undefined array key "HTTP_HOST" in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/PHP_Modules/UrlActivity.php on line 10
+[14-Jan-2024 06:28:01 Asia/Calcutta] PHP Warning:  Undefined array key "REQUEST_URI" in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/PHP_Modules/UrlActivity.php on line 13
+[14-Jan-2024 06:49:31 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:18
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 18
+[14-Jan-2024 08:36:44 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:18
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 18
+[14-Jan-2024 08:36:45 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:18
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/users/add.php(50): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 18
+[14-Jan-2024 08:47:39 Asia/Calcutta] PHP Warning:  Undefined array key "UserLeaveFrom" in /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleController/LeaveController.php on line 22
+[14-Jan-2024 09:11:35 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:18
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 18
+[14-Jan-2024 09:11:56 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:18
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 18
+[14-Jan-2024 09:31:48 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:18
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 18
+[14-Jan-2024 09:32:30 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:18
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 18
+[14-Jan-2024 09:41:55 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:18
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 18
+[14-Jan-2024 09:47:40 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:18
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 18
+[14-Jan-2024 09:52:55 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:18
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 18
+[14-Jan-2024 09:53:11 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:18
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 18
+[14-Jan-2024 09:53:53 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:18
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 18
+[14-Jan-2024 09:55:58 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:18
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 18
+[14-Jan-2024 09:56:28 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:18
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 18
+[14-Jan-2024 09:58:26 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:18
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 18
+[14-Jan-2024 09:58:58 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:18
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 18
+[14-Jan-2024 10:00:40 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:18
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 18
+[14-Jan-2024 10:01:38 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:18
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/ods/index.php(46): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 18
+[14-Jan-2024 10:01:39 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:18
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 18
+[14-Jan-2024 10:02:38 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:18
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 18
+[14-Jan-2024 10:02:43 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:18
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 18
+[14-Jan-2024 10:03:08 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:18
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 18
+[14-Jan-2024 10:03:42 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:18
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 18
+[14-Jan-2024 10:03:51 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:18
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 18
+[14-Jan-2024 10:04:03 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:18
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 18
+[14-Jan-2024 10:04:15 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:18
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 18
+[14-Jan-2024 10:04:35 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:18
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 18
+[14-Jan-2024 10:07:14 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:18
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 18
+[14-Jan-2024 10:07:38 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:18
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 18
+[14-Jan-2024 10:08:38 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:18
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 18
+[14-Jan-2024 10:09:18 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:18
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 18
+[14-Jan-2024 10:09:20 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:18
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/attandance/myattandance.php(38): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 18
+[14-Jan-2024 10:09:25 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:18
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 18
+[14-Jan-2024 10:09:50 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:18
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/users/index.php(27): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 18
+[14-Jan-2024 10:10:24 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/u694216744/domains/roofnassets.com/public_html/auth/logout/index.php on line 4
+[14-Jan-2024 10:12:55 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:18
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 18
+[14-Jan-2024 10:16:58 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:18
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 18
+[14-Jan-2024 10:18:33 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/app/info/in/index.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/app/info/in/index.php on line 12
+[14-Jan-2024 10:23:23 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:18
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 18
+[14-Jan-2024 10:27:27 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:18
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/users/add.php(50): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 18
+[14-Jan-2024 10:27:29 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:18
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 18
+[14-Jan-2024 10:28:20 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:18
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 18
+[14-Jan-2024 10:28:39 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:18
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 18
+[14-Jan-2024 10:30:05 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:18
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 18
+[14-Jan-2024 10:33:00 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:18
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 18
+[14-Jan-2024 10:55:07 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:18
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 18
+[14-Jan-2024 11:12:36 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:18
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 18
+[14-Jan-2024 11:12:48 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:18
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 18
+[14-Jan-2024 11:17:23 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:18
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 18
+[14-Jan-2024 11:19:39 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:18
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/users/add.php(50): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 18
+[14-Jan-2024 11:32:29 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:18
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 18
+[14-Jan-2024 11:51:08 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:18
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 18
+[14-Jan-2024 12:25:36 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:18
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 18
+[14-Jan-2024 12:32:46 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:18
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 18
+[14-Jan-2024 13:06:24 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:18
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 18
+[14-Jan-2024 14:46:13 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:18
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 18
+[14-Jan-2024 14:52:05 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:18
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 18
+[14-Jan-2024 14:57:20 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:18
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 18
+[14-Jan-2024 14:59:42 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:18
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 18
+[14-Jan-2024 15:55:33 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/app/info/in/index.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/app/info/in/index.php on line 12
+[14-Jan-2024 16:08:07 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:18
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/attandance/myattandance.php(38): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 18
+[14-Jan-2024 16:43:51 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:18
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 18
+[14-Jan-2024 16:45:05 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/u694216744/domains/roofnassets.com/public_html/auth/logout/index.php on line 4
+[14-Jan-2024 16:46:00 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/u694216744/domains/roofnassets.com/public_html/auth/logout/index.php on line 4
+[14-Jan-2024 16:51:21 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:18
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 18
+[14-Jan-2024 17:18:34 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:18
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 18
+[14-Jan-2024 17:18:38 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:18
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 18
+[14-Jan-2024 17:18:48 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:18
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 18
+[14-Jan-2024 18:04:34 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:18
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 18
+[14-Jan-2024 18:09:48 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:18
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 18
+[14-Jan-2024 18:10:02 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:18
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 18
+[14-Jan-2024 18:18:31 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:18
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 18
+[14-Jan-2024 18:27:11 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/u694216744/domains/roofnassets.com/public_html/auth/logout/index.php on line 4
+[14-Jan-2024 18:31:11 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:18
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 18
+[14-Jan-2024 18:31:35 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:18
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 18
+[14-Jan-2024 18:33:17 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:18
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 18
+[14-Jan-2024 18:33:31 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/u694216744/domains/roofnassets.com/public_html/auth/logout/index.php on line 4
+[14-Jan-2024 18:33:38 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:18
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/users/add.php(50): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 18
+[14-Jan-2024 18:33:48 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:18
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 18
+[14-Jan-2024 18:34:31 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/u694216744/domains/roofnassets.com/public_html/auth/logout/index.php on line 4
+[14-Jan-2024 18:34:50 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/u694216744/domains/roofnassets.com/public_html/auth/logout/index.php on line 4
+[14-Jan-2024 18:35:16 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:18
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 18
+[14-Jan-2024 18:35:48 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:18
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 18
+[14-Jan-2024 18:36:14 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/u694216744/domains/roofnassets.com/public_html/auth/logout/index.php on line 4
+[14-Jan-2024 18:36:16 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:18
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 18
+[14-Jan-2024 18:36:26 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/u694216744/domains/roofnassets.com/public_html/auth/logout/index.php on line 4
+[14-Jan-2024 18:36:47 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/u694216744/domains/roofnassets.com/public_html/auth/logout/index.php on line 4
+[14-Jan-2024 18:38:24 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:18
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 18
+[14-Jan-2024 18:40:59 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:18
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 18
+[14-Jan-2024 18:41:20 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/u694216744/domains/roofnassets.com/public_html/auth/logout/index.php on line 4
+[14-Jan-2024 18:42:56 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:18
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 18
+[14-Jan-2024 18:43:36 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/app/info/in/index.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/app/info/in/index.php on line 12
+[14-Jan-2024 18:44:30 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/u694216744/domains/roofnassets.com/public_html/auth/logout/index.php on line 4
+[14-Jan-2024 18:46:58 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:18
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 18
+[14-Jan-2024 18:48:05 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:18
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 18
+[14-Jan-2024 18:48:50 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/u694216744/domains/roofnassets.com/public_html/auth/logout/index.php on line 4
+[14-Jan-2024 18:54:17 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleController/AttandanceController.php:147
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleHandler.php(10): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleController/AttandanceController.php on line 147
+[14-Jan-2024 18:55:14 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:18
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 18
+[14-Jan-2024 18:56:15 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:18
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 18
+[14-Jan-2024 18:56:42 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/u694216744/domains/roofnassets.com/public_html/auth/logout/index.php on line 4
+[14-Jan-2024 18:58:15 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:18
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 18
+[14-Jan-2024 18:58:43 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/u694216744/domains/roofnassets.com/public_html/auth/logout/index.php on line 4
+[14-Jan-2024 19:02:05 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:18
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 18
+[14-Jan-2024 19:03:11 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/app/info/out/index.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/app/info/out/index.php on line 11
+[14-Jan-2024 19:03:17 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/app/info/out/index.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/app/info/out/index.php on line 11
+[14-Jan-2024 19:03:21 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/app/info/out/index.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/app/info/out/index.php on line 11
+[14-Jan-2024 19:13:41 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:18
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 18
+[14-Jan-2024 19:13:46 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:18
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 18
+[14-Jan-2024 19:14:12 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/u694216744/domains/roofnassets.com/public_html/auth/logout/index.php on line 4
+[14-Jan-2024 19:28:56 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:18
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 18
+[14-Jan-2024 19:29:21 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:18
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 18
+[14-Jan-2024 19:30:17 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/u694216744/domains/roofnassets.com/public_html/auth/logout/index.php on line 4
+[14-Jan-2024 19:30:33 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:18
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 18
+[14-Jan-2024 19:31:11 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/u694216744/domains/roofnassets.com/public_html/auth/logout/index.php on line 4
+[14-Jan-2024 19:31:33 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:18
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 18
+[14-Jan-2024 19:32:02 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/u694216744/domains/roofnassets.com/public_html/auth/logout/index.php on line 4
+[14-Jan-2024 19:32:37 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:18
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 18
+[14-Jan-2024 19:32:51 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/u694216744/domains/roofnassets.com/public_html/auth/logout/index.php on line 4
+[14-Jan-2024 19:32:59 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/u694216744/domains/roofnassets.com/public_html/auth/logout/index.php on line 4
+[14-Jan-2024 19:33:06 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:18
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 18
+[14-Jan-2024 19:33:08 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:18
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 18
+[14-Jan-2024 19:33:45 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/u694216744/domains/roofnassets.com/public_html/auth/logout/index.php on line 4
+[14-Jan-2024 19:33:50 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/app/info/out/index.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/app/info/out/index.php on line 11
+[14-Jan-2024 19:34:04 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:18
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 18
+[14-Jan-2024 19:35:03 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:18
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 18
+[14-Jan-2024 19:35:24 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/u694216744/domains/roofnassets.com/public_html/auth/logout/index.php on line 4
+[14-Jan-2024 19:36:14 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:18
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 18
+[14-Jan-2024 19:36:35 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/u694216744/domains/roofnassets.com/public_html/auth/logout/index.php on line 4
+[14-Jan-2024 19:37:26 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:18
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 18
+[14-Jan-2024 19:37:42 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:18
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 18
+[14-Jan-2024 19:37:48 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/u694216744/domains/roofnassets.com/public_html/auth/logout/index.php on line 4
+[14-Jan-2024 19:38:06 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:18
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 18
+[14-Jan-2024 19:38:07 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/u694216744/domains/roofnassets.com/public_html/auth/logout/index.php on line 4
+[14-Jan-2024 19:42:05 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:18
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 18
+[14-Jan-2024 19:42:22 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/u694216744/domains/roofnassets.com/public_html/auth/logout/index.php on line 4
+[14-Jan-2024 19:42:25 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/app/info/out/index.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/app/info/out/index.php on line 11
+[14-Jan-2024 19:42:31 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/app/info/out/index.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/app/info/out/index.php on line 11
+[14-Jan-2024 19:42:33 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/app/info/out/index.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/app/info/out/index.php on line 11
+[14-Jan-2024 19:42:34 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/app/info/out/index.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/app/info/out/index.php on line 11
+[14-Jan-2024 19:42:36 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/app/info/out/index.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/app/info/out/index.php on line 11
+[14-Jan-2024 19:46:50 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:18
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 18
+[14-Jan-2024 19:47:09 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/u694216744/domains/roofnassets.com/public_html/auth/logout/index.php on line 4
+[14-Jan-2024 19:53:52 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:18
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 18
+[14-Jan-2024 19:54:22 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/u694216744/domains/roofnassets.com/public_html/auth/logout/index.php on line 4
+[14-Jan-2024 19:57:34 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:18
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 18
+[14-Jan-2024 19:57:57 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/u694216744/domains/roofnassets.com/public_html/auth/logout/index.php on line 4
+[14-Jan-2024 19:59:05 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:18
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 18
+[14-Jan-2024 19:59:29 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/u694216744/domains/roofnassets.com/public_html/auth/logout/index.php on line 4
+[14-Jan-2024 20:39:02 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/app/info/out/index.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/app/info/out/index.php on line 11
+[14-Jan-2024 20:49:33 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/u694216744/domains/roofnassets.com/public_html/auth/logout/index.php on line 4
+[14-Jan-2024 21:02:58 Asia/Calcutta] PHP Warning:  Undefined array key "HTTP_USER_AGENT" in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/PHP_Modules/DeviceType.php on line 6
+[14-Jan-2024 21:02:58 Asia/Calcutta] PHP Warning:  Undefined array key "HTTP_USER_AGENT" in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/PHP_Modules/DeviceInfo.php on line 14
+[14-Jan-2024 21:02:59 Asia/Calcutta] PHP Warning:  Undefined array key "HTTP_USER_AGENT" in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/PHP_Modules/DeviceType.php on line 6
+[14-Jan-2024 21:02:59 Asia/Calcutta] PHP Warning:  Undefined array key "HTTP_USER_AGENT" in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/PHP_Modules/DeviceInfo.php on line 14
+[14-Jan-2024 21:02:59 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:18
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 18
+[14-Jan-2024 21:03:01 Asia/Calcutta] PHP Warning:  Undefined array key "HTTP_USER_AGENT" in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/PHP_Modules/DeviceType.php on line 6
+[14-Jan-2024 21:03:01 Asia/Calcutta] PHP Warning:  Undefined array key "HTTP_USER_AGENT" in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/PHP_Modules/DeviceInfo.php on line 14
+[14-Jan-2024 21:12:31 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:18
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 18
+[14-Jan-2024 22:35:09 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:18
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 18
+[14-Jan-2024 22:36:38 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:18
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 18
+[14-Jan-2024 22:36:54 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/u694216744/domains/roofnassets.com/public_html/auth/logout/index.php on line 4
+[14-Jan-2024 23:56:44 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:18
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 18

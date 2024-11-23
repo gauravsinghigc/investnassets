@@ -1,9 +1,10 @@
 <?php
 // Define database connection constants
-DEFINE("DB_SERVER_HOST", "localhost");
-DEFINE("DB_SERVER_USER", "inve_inve_investnassets");
-DEFINE("DB_SERVER_PASS", "Navix@9810");
-DEFINE("DB_SERVER_DB_NAME", "inve_inve_investnassets");
+define("DB_SERVER_HOST", "localhost");
+define("DB_SERVER_USER", "u694216744_roofnassets");
+define("DB_SERVER_PASS", "Navix@9810895713");
+define("DB_SERVER_DB_NAME", "u694216744_roofnassets");
+
 // Create connection
 $conn = new mysqli(DB_SERVER_HOST, DB_SERVER_USER, DB_SERVER_PASS, DB_SERVER_DB_NAME);
 
@@ -111,7 +112,7 @@ if ($postData) {
             if ($Distance <= $OfficeMinAttendanceRangeConfigValue) {
                 $check_in_status = "true";
             } else {
-                $check_in_status = "true";
+                $check_in_status = "false";
             }
 
             //check attandance time
@@ -419,7 +420,7 @@ if ($postData) {
             if ($Distance <= $OfficeMinAttendanceRangeConfigValue) {
                 $check_in_status = "true";
             } else {
-                $check_in_status = "true";
+                $check_in_status = "false";
             }
 
             //if user check-out before the office minimum end time

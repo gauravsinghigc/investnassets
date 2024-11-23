@@ -1,9 +1,9 @@
 <?php
 // Define database connection constants
 DEFINE("DB_SERVER_HOST", "localhost");
-DEFINE("DB_SERVER_USER", "inve_inve_investnassets");
-DEFINE("DB_SERVER_PASS", "Navix@9810");
-DEFINE("DB_SERVER_DB_NAME", "inve_inve_investnassets");
+DEFINE("DB_SERVER_USER", "root");
+DEFINE("DB_SERVER_PASS", "C6Hm5LkZR7HbGpg");
+DEFINE("DB_SERVER_DB_NAME", "investnassets");
 // Create connection
 $conn = new mysqli(DB_SERVER_HOST, DB_SERVER_USER, DB_SERVER_PASS, DB_SERVER_DB_NAME);
 

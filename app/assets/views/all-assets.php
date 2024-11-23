@@ -12,15 +12,15 @@
        <div class="row">
            <div class="col-md-3 col-sm-6 col-6">
                <div class="card p-2">
-                   <h6 class="mb-0 text-grey">Total : <?php echo TOTAL("SELECT AssetsIssueStatus FROM assets"); ?> assets</h6>
+                   <h6 class="mb-0 text-grey">Total : <?php echo TOTAL("SELECT AssetsId FROM assets"); ?> assets</h6>
                    <h3 class="mb-0"><?php echo Price(AMOUNT("SELECT AssetsCost FROM assets", "AssetsCost"), "text-primary", "Rs."); ?></h3>
                    <p class="text-gray">All Assets</p>
                </div>
            </div>
            <div class="col-md-3 col-sm-6 col-6">
                <div class="card p-2">
-                   <h6 class="mb-0 text-grey">Total : <?php echo TOTAL("SELECT AssetsCost FROM assets_issued where AssetsIssueStatus='ISSUED'"); ?> assets</h6>
-                   <h3 class="mb-0"><?php echo Price(AMOUNT("SELECT AssetsCost FROM assets, assets_issued where assets.AssetsId=assets_issued.AssetsMainId and AssetsIssueStatus='Issued'", "AssetsCost"), "text-primary", "Rs."); ?></h3>
+                   <h6 class="mb-0 text-grey">Total : <?php echo TOTAL("SELECT * FROM assets_issued where AssetsIssueStatus='ISSUED'"); ?> assets</h6>
+                   <h3 class="mb-0"><?php echo Price(AMOUNT("SELECT AssetsCost, AssetsId FROM assets, assets_issued where assets.AssetsId=assets_issued.AssetsMainId and AssetsIssueStatus='Issued'", "AssetsCost"), "text-primary", "Rs."); ?></h3>
                    <p class="text-gray">All Issued Assets</p>
                </div>
            </div>

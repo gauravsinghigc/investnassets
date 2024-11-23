@@ -1,30 +1,38 @@
 <?php
 //no data found View
-function NoData($title, $desc = null)
+function NoData($title, $desc = null, $redirect = null)
 { ?>
-        <div class="col-lg-12 col-md-12 col-sm-12 col-12 mt-4">
-                <div class="shadow-sm p-1">
-                        <div class="p-1">
-                                <h4 class="bold mt-3"><?php echo $title; ?></h4>
+        <div class="col-lg-12 col-md-12 col-sm-12 col-12 mt-2 pl-0 pr-0">
+                <div class="shadow-sm">
+                        <div class="p-2">
+                                <h1 class="mb-0"><i class="fa fa-smile-o text-warning"></i></h1>
+                                <h4 class="bold mb-0"><?php echo $title; ?></h4>
                                 <p>
                                         <?php echo $desc; ?>
                                 </p>
+                                <?php if ($redirect != null) {
+                                        echo "<a href='$redirect' class='btn btn-sm btn-primary'>Add Details <i class='fa fa-angle-right'></i></a>";
+                                } ?>
                         </div>
                 </div>
         </div>
 <?php }
 
 //upload image with preview
-function UploadImageInput($name, $id, $filetypes, $required = true, $class, $value = null)
+function UploadImageInput($name, $id, $filetypes, $required = true, $class, $value = null, $Label = null)
 {
         if ($required == true) {
                 $req = "required=''";
         } else {
                 $req = "";
         } ?>
-        <div class="form-group <?php echo $class; ?>">
-                <label>Upload Image</label>
-                <input type="FILE" name="<?php echo $name; ?>" value="<?php echo $value; ?>" id="<?php echo $id; ?>" <?php echo $req; ?> accept="<?php echo $filetypes; ?>" class="form-control-2" />
+        <div class="form-group">
+                <?php if ($Label == null) { ?>
+                        <label>Upload Image</label>
+                <?php } else { ?>
+                        <label><?php echo $Label; ?></label>
+                <?php } ?>
+                <input type="FILE" name="<?php echo $name; ?>" value="<?php echo $value; ?>" id="<?php echo $id; ?>" <?php echo $req; ?> accept="<?php echo $filetypes; ?>" class="form-control" />
         </div>
         <div class="col-md-12">
                 <div class="flex-c mb-2-pr">

@@ -23,6 +23,18 @@ if (isset($_SESSION['LOGIN_USER_ID'])) {
         define("LOGIN_UserProfileImage", STORAGE_URL_U . "/" . LOGIN_UserId . "/img/" . LOGIN_UserProfileImage1);
     }
 
+    //check if on-boarding status is active
+} elseif (isset($_SESSION['ONBOARDING_REQUEST_FOR'])) {
+    if (isset($_GET['for'])) {
+        $OnBoardingRequestedBy = SECURE($_GET["for"], "d");
+        $_SESSION['ONBOARDING_REQUEST_FOR']  = $OnBoardingRequestedBy;
+    } else {
+        if (isset($_SESSION['ONBOARDING_REQUEST_FOR'])) {
+            $OnBoardingRequestedBy = $_SESSION['ONBOARDING_REQUEST_FOR'];
+        } else {
+            $OnBoardingRequestedBy = null;
+        }
+    }
     //no login
 } else {
     header("location:" . DOMAIN . "/auth/");

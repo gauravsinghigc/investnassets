@@ -77,6 +77,24 @@ function UserDetails($UserId)
   return $response;
 }
 
+//usercreated by 
+function UserCreatedBy($UserId)
+{
+  $response = "";
+  $AllUsers = _DB_COMMAND_("SELECT UserId, UserFullName, UserPhoneNumber, UserEmailId FROM users where UserId='" . $UserId . "' ORDER BY UserFullName ASC", true);
+  if ($AllUsers == null) {
+    $response = "";
+  } else {
+    foreach ($AllUsers as $User) {
+      $response .= "<span class='btn btn-xs btn-default'> <i class='fa fa-user text-primary'></i> ";
+      $response .= $User->UserFullName . "-" . UserEmpDetails($User->UserId, "UserEmpJoinedId");
+      $response .= '</span>';
+    }
+  }
+
+  return $response;
+}
+
 //user details
 function UserDetailsForExport($UserId)
 {
@@ -207,3 +225,36 @@ function UserAccessType($UserId)
 {
   return FETCH("SELECT UserAccessName FROM user_access WHERE UserAccessUserId='$UserId' ORDER BY UserAccessId DESC limit 1", "UserAccessName");
 }
+
+//function for user all access level inreturn via array
+function UserAllAccessLevel($UserId)
+{
+  $UserAccessLevel = "";
+  $AllAccess = _DB_COMMAND_("SELECT UserAccessName FROM user_access WHERE UserAccessUserId='$UserId' GROUP BY UserAccessName ORDER BY UserAccessId DESC", true);
+  foreach ($AllAccess as $Access) {
+    $UserAccessLevel .=   "<span class='list text-black'><i class='fa fa-check-circle text-success'></i> " . $Access->UserAccessName . "</span> ";
+  }
+  return $UserAccessLevel;
+}
+
+//humen relations with each other
+define("HUMAN_RELATIONS", [
+  "" => "Select Relation",
+  "Brother" => "Brother",
+  "Sister" => "Sister",
+  "Son" => "Son",
+  "Daughter" => "Daughter",
+  "Wife" => "Wife",
+  "Father" => "Father",
+  "Grandfather" => "Grandfather",
+  "Grandmother" => "Grandmother",
+  "Uncle" => "Uncle",
+  "Aunty" => "Aunty",
+  "Cousin" => "Cousin",
+  "Nephew" => "Nephew",
+  "Niece" => "Niece",
+  "Father-in-law" => "Father-in-law",
+  "Mother-in-law" => "Mother-in-law",
+  "Friend" => "Friend",
+  "Other" => "Other"
+]);

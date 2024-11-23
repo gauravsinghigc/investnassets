@@ -118,6 +118,7 @@ $PageDescription = "Manage all customers";
                                                             <div class="shadow-sm mt-1 p-2 b-r-2 bg-light border-info border-width-2 mb-3">
                                                                 <?php
                                                                 $emailTemplateContent = FETCH($EmailTemplaTeSQL, "config_mail_template_content");
+                                                                $emailTemplateSubject = FETCH($EmailTemplaTeSQL, "config_mail_template_subject");
                                                                 echo html_entity_decode($emailTemplateContent); ?>
                                                             </div>
                                                             <a href="<?php echo APP_URL; ?>/emails/templates/update/?id=<?php echo SECURE($SELECTED_EMAIL_TEMPLATE_ID, "e"); ?>&access_url=<?php echo RUNNING_URL; ?>" class='btn btn-xs btn-primary'>
@@ -487,17 +488,29 @@ $PageDescription = "Manage all customers";
                                                                         <li>Uploaded csv must have below mention headers as column with approx 1 records as row.
                                                                             <ul>
                                                                                 <?php
+                                                                                $UniqueOnle = [];
                                                                                 preg_match_all('/\$\w+/', $emailTemplateContent, $matches);
                                                                                 $ExtractAllVariables = array_unique($matches[0]);
                                                                                 $StartCSVHeaders = 0;
                                                                                 foreach ($ExtractAllVariables as $VariableName) {
                                                                                     $StartCSVHeaders++;
                                                                                     $VariableName = removeSpecialCharacter($VariableName, "$");
+                                                                                    array_push($UniqueOnle, $VariableName);
                                                                                     if ($StartCSVHeaders == 1) {
                                                                                         echo "<li>$StartCSVHeaders Column - <b>EMAILID</b></li>";
                                                                                         $StartCSVHeaders++;
                                                                                     }
                                                                                     echo "<li>$StartCSVHeaders Column - <b>$VariableName</b></li>";
+                                                                                }
+
+                                                                                preg_match_all('/\$\w+/', $emailTemplateSubject, $matches);
+                                                                                $SubjectVariables = array_unique($matches[0]);
+                                                                                foreach ($SubjectVariables as $VariableName) {
+                                                                                    $VariableName = removeSpecialCharacter($VariableName, "$");
+                                                                                    if (!in_array($VariableName, $UniqueOnle)) {
+                                                                                        $StartCSVHeaders++;
+                                                                                        echo "<li>$StartCSVHeaders Column - <b>$VariableName</b></li>";
+                                                                                    }
                                                                                 }
                                                                                 ?>
                                                                             </ul>

@@ -14,7 +14,7 @@
           <input type="text" readonly class="form-control " value="<?php echo FETCH($EmpSql, "UserEmpJoinedId"); ?>" name="UserEmpJoinedId">
         </div>
         <div class="col-md-4 form-group">
-          <label>Background</label>
+          <label>Last Working Industry</label>
           <input type="text" class="form-control " value="<?php echo FETCH($EmpSql, "UserEmpBackGround"); ?>" name="UserEmpBackGround">
         </div>
         <div class="col-md-5 form-group">
@@ -22,12 +22,26 @@
           <input type="text" class="form-control " value="<?php echo FETCH($EmpSql, "UserEmpTotalWorkExperience"); ?>" name="UserEmpTotalWorkExperience">
         </div>
         <div class="col-md-4 form-group">
-          <label>Previous Organisation</label>
+          <label>Previous Organisation Name</label>
           <input type="text" class="form-control " value="<?php echo FETCH($EmpSql, "UserEmpPreviousOrg"); ?>" name="UserEmpPreviousOrg">
         </div>
         <div class="col-md-4 form-group">
           <label>Blood Groups</label>
-          <input type="text" class="form-control " value="<?php echo FETCH($EmpSql, "UserEmpBloodGroup"); ?>" name="UserEmpBloodGroup">
+          <select name="UserEmpBloodGroup" class="form-control">
+            <?php echo InputOptions(
+              [
+                "Select Bloog Group",
+                "A+",
+                "B+",
+                "AB+",
+                "0+",
+                "A-",
+                "B-",
+                "O-"
+              ],
+              FETCH($EmpSql, "UserEmpBloodGroup")
+            ); ?>
+          </select>
         </div>
         <div class="col-md-4 form-group">
           <label>Rera ID (If Have)</label>
@@ -71,7 +85,7 @@
         <div class="col-md-4 form-group">
           <label>Employement Type</label>
           <select class="form-control " name="UserEmpType">
-            <?php echo InputOptions(["INA Direct" => "INA DIRECT", "Business Modal" => "Business Modal"], FETCH($EmpSql, "UserEmpType")); ?>
+            <?php echo CONFIG_VALUES("EMP_TYPE", FETCH($EmpSql, "UserEmpType")); ?>
           </select>
         </div>
         <div class="col-md-4 form-group">
@@ -97,7 +111,7 @@
         <div class="col-md-4 form-group">
           <label>(OnRole/OffRole) Status</label>
           <select class="form-control " name="UserEmpRoleStatus">
-            <?php echo InputOptions(["On Role", "Off Role"], FETCH($EmpSql, "UserEmpRoleStatus")); ?>
+            <?php echo InputOptions(["On Role" => "On Role", "Off Role" => "Off Role"], FETCH($EmpSql, "UserEmpRoleStatus")); ?>
           </select>
         </div>
         <div class="col-md-6 form-group">
@@ -110,27 +124,27 @@
         </div>
       </div>
       <div class="row">
-          <?php $BankSql = "SELECT * FROM user_bank_details where UserMainId='$REQ_UserId'"; ?>
-          <div class="col-md-12">
-                            <h5 class="app-sub-heading"> Bank Account Details</h5>
-                          </div>
-                          <div class="form-group col-md-6">
-                            <label>Bank Name</label>
-                            <input type="text" name="UserBankName" value='<?php echo FETCH($BankSql, "UserBankName");?>' class="form-control">
-                          </div>
-                          <div class="form-group col-md-6">
-                            <label>Account No</label>
-                            <input type="text" name="UserBankAccountNo" value='<?php echo FETCH($BankSql, "UserBankAccountNo");?>' class="form-control">
-                          </div>
-                          <div class="form-group col-md-6">
-                            <label>IFSC Code</label>
-                            <input type="text" name="UserBankIFSC" value='<?php echo FETCH($BankSql, "UserBankIFSC");?>' class="form-control">
-                          </div>
-                          <div class="form-group col-md-6">
-                            <label>Account Holder Name</label>
-                            <input type="text" name="UserBankAccoundHolderName" value='<?php echo FETCH($BankSql, "UserBankAccoundHolderName");?>' class="form-control">
-                          </div>
-                          
+        <?php $BankSql = "SELECT * FROM user_bank_details where UserMainId='$REQ_UserId'"; ?>
+        <div class="col-md-12">
+          <h5 class="app-sub-heading"> Bank Account Details</h5>
+        </div>
+        <div class="form-group col-md-6">
+          <label>Bank Name</label>
+          <input type="text" name="UserBankName" value='<?php echo FETCH($BankSql, "UserBankName"); ?>' class="form-control">
+        </div>
+        <div class="form-group col-md-6">
+          <label>Account No</label>
+          <input type="text" name="UserBankAccountNo" value='<?php echo FETCH($BankSql, "UserBankAccountNo"); ?>' class="form-control">
+        </div>
+        <div class="form-group col-md-6">
+          <label>IFSC Code</label>
+          <input type="text" name="UserBankIFSC" value='<?php echo FETCH($BankSql, "UserBankIFSC"); ?>' class="form-control">
+        </div>
+        <div class="form-group col-md-6">
+          <label>Account Holder Name</label>
+          <input type="text" name="UserBankAccoundHolderName" value='<?php echo FETCH($BankSql, "UserBankAccoundHolderName"); ?>' class="form-control">
+        </div>
+
         <div class="col-md-12">
           <button type="submit" name="UpdateEmployement" class="btn btn-md btn-success"><i class="fa fa-check-circle"></i> Update Details</button>
         </div>

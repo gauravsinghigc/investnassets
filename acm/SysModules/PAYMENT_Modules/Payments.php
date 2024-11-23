@@ -202,6 +202,7 @@ function PayStatus($paystatus)
 
 //list of all banks
 define("BANK_LIST", array(
+    "Select Bank Name",
     "Bank of Baroda", "Bank of India", "Bank of Maharashtra", "Canara Bank", "Central Bank of India", "Indian Bank", "Indian Overseas Bank", "Punjab & Sind Bank",
     "Punjab National Bank", "State Bank of India", "UCO Bank", "Union Bank of India", "Axis Bank Ltd.", "Bandhan Bank Ltd.", "CSB Bank Ltd.", "City Union Bank Ltd",
     "DCB Bank Ltd", "Dhanlaxmi Bank Ltd.", "Federal Bank Ltd.", "HDFC Bank Ltd", "ICICI Bank Ltd.", "Induslnd Bank Ltd", "IDFC First Bank Ltd.", "Jammu & Kashmir Bank Ltd.",

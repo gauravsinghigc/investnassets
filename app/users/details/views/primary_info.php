@@ -1,6 +1,6 @@
  <div class='row'>
      <div class="col-md-12">
-         <h6 class="app-sub-heading">Primary Info</h6>
+         <h6 class="app-heading">Primary Info</h6>
      </div>
      <div class="col-md-12">
          <form action="<?php echo CONTROLLER; ?>" method="POST" enctype="multipart/form-data">
@@ -39,12 +39,7 @@
                              <input type="email" name="UserEmailId" value="<?php echo FETCH($PageSqls, "UserEmailId"); ?>" class="form-control " required="">
                          </div>
                      </div>
-                     <div class="row mb-10px">
-                         <div class="form-group col-lg-12 col-lg-12 col-sm-12">
-                             <label>Notes/Remarks</label>
-                             <textarea class="form-control " rows="3" name="UserNotes"><?php echo SECURE(FETCH($PageSqls, "UserNotes"), "d"); ?></textarea>
-                         </div>
-                     </div>
+
                      <div class="row">
                          <div class="form-group col-lg-4 col-md-4 col-sm-12">
                              <label>User Status</label>
@@ -60,16 +55,13 @@
                              </select>
                          </div>
                          <div class="form-group col-lg-4 col-md-4 col-sm-12">
-                             <label>User Type</label>
-                             <select class="form-control " name="UserType">
-                                 <?php echo InputOptions(USER_ROLES, FETCH($PageSqls, "UserType")); ?>
-                             </select>
-                         </div>
-                         <div class="form-group col-lg-4 col-md-4 col-sm-12">
                              <label>Date of Birth</label>
                              <input type="date" name="UserDateOfBirth" class="form-control " value="<?php echo FETCH($PageSqls, "UserDateOfBirth"); ?>">
                          </div>
-
+                         <div class="form-group col-lg-12 col-lg-12 col-sm-12">
+                             <label>Notes/Remarks</label>
+                             <textarea class="form-control " rows="3" name="UserNotes"><?php echo SECURE(FETCH($PageSqls, "UserNotes"), "d"); ?></textarea>
+                         </div>
                          <div class="col-md-12">
                              <button type="submit" name="UpdatePrimaryData" class="btn btn-md btn-success"><i class="fa fa-check-circle"></i> Update Details</button>
                          </div>
@@ -79,57 +71,80 @@
          </form>
      </div>
      <hr>
-     <div class="col-md-12">
-         <h6 class="app-sub-heading">Address Details</h6>
+     <div class="col-md-10">
+         <h6 class="app-heading">Address Details</h6>
+     </div>
+     <div class='col-md-2'>
+         <button type='button' onclick="Databar('AddMoreAddress')" class='btn btn-sm btn-block btn-danger'><i class='fa fa-plus'></i> Add More</button>
      </div>
      <div class="col-md-12">
-         <form action="<?php echo CONTROLLER; ?>" method="POST">
-             <?php FormPrimaryInputs(true, [
-                    "UserId" => $REQ_UserId,
-                ]); ?>
-             <div class="row">
-                 <div class="form-group col-lg-12 col-md-12 col-12">
-                     <label>Street Address</label>
-                     <input type="text" name="UserStreetAddress" value="<?php echo SECURE(FETCH($AddressSql, "UserStreetAddress"), "d"); ?>" class="form-control">
-                 </div>
-             </div>
-
-             <div class="row mb-10px">
-                 <div class="form-group col-lg-6 col-md-6 col-12">
-                     <label>Sector/Locality/Area/Landmark</label>
-                     <input type="text" name="UserLocality" value="<?php echo FETCH($AddressSql, "UserLocality"); ?>" class="form-control ">
-                 </div>
-                 <div class="form-group col-lg-6 col-md-6 col-12">
-                     <label>City</label>
-                     <input type="text" name="UserCity" value="<?php echo FETCH($AddressSql, "UserCity"); ?>" class="form-control ">
-                 </div>
-                 <div class="form-group col-lg-4 col-md-4 col-12">
-                     <label>State</label>
-                     <input type="text" name="UserState" value="<?php echo FETCH($AddressSql, "UserState"); ?>" class="form-control ">
-                 </div>
-                 <div class="form-group col-lg-4 col-md-4 col-12">
-                     <label>Country</label>
-                     <input type="text" name="UserCountry" value="<?php echo FETCH($AddressSql, "UserCountry"); ?>" class="form-control ">
-                 </div>
-                 <div class="form-group col-lg-4 col-md-4 col-12">
-                     <label>Pincode</label>
-                     <input type="text" name="UserPincode" value="<?php echo FETCH($AddressSql, "UserPincode"); ?>" class="form-control ">
-                 </div>
-                 <div class="form-group col-lg-4 col-md-4 col-12">
-                     <label>Address Type</label>
-                     <select class="form-control " name="UserAddressType">
-                         <?php echo InputOptions(["Office Address", "Home Address"], FETCH($AddressSql, "UserAddressType")); ?>
-                     </select>
-                 </div>
-                 <div class="form-group col-lg-8 col-md-8 col-12">
-                     <label>Contact Person At Address</label>
-                     <input type="text" name="UserAddressContactPerson" value="<?php echo FETCH($AddressSql, "UserAddressContactPerson"); ?>" class="form-control ">
-                 </div>
-
-                 <div class="col-md-12">
-                     <button type="submit" name="UpdateAddress" class="btn btn-md btn-success"><i class="fa fa-check-circle"></i> Update Address</button>
-                 </div>
-             </div>
-         </form>
+         <div class='row'>
+             <?php
+                $UserId = $REQ_UserId;
+                $AddressSQL = "SELECT * FROM user_addresses where UserAddressUserId='$REQ_UserId' ORDER BY UserAddressId DESC";
+                $GetAllAddressRecords = _DB_COMMAND_($AddressSQL, true);
+                if ($GetAllAddressRecords != null) {
+                    foreach ($GetAllAddressRecords as $Address) { ?>
+                     <form class='col-md-6 mb-2' action="<?php echo CONTROLLER; ?>" method="POST">
+                         <?php FormPrimaryInputs(true, [
+                                "UserId" => $REQ_UserId,
+                                "UserAddressId" => $Address->UserAddressId
+                            ]); ?>
+                         <div class="shadow-sm p-2 b-r-1">
+                             <h5 class="app-sub-heading">Update <?php echo $Address->UserAddressType; ?> Address</h5>
+                             <div class='row'>
+                                 <div class="form-group col-lg-12 col-md-12 col-12">
+                                     <label>Street Address</label>
+                                     <input type='text' name='UserStreetAddress' value='<?php echo SECURE($Address->UserStreetAddress, "d"); ?>' class='form-control'>
+                                 </div>
+                                 <div class="form-group col-lg-12 col-md-12 col-12">
+                                     <label>Sector/Locality/Area/Landmark</label>
+                                     <input type="text" name="UserLocality" value='<?php echo $Address->UserLocality; ?>' class="form-control">
+                                 </div>
+                                 <input type='hidden' name='UserCountry' value='<?php echo $Address->UserCountry; ?>'>
+                                 <div class="form-group col-lg-6 col-md-6 col-12">
+                                     <label>State</label>
+                                     <select class="state form-control SelectedState" name="UserState" onchange='GetStateCities()'>
+                                         <?php echo InputOptions(STATES_OPTIONS, $Address->UserState); ?>
+                                     </select>
+                                 </div>
+                                 <div class="form-group col-lg-6 col-md-6 col-12">
+                                     <label>City</label>
+                                     <input type="text" name="UserCity" value='<?php echo $Address->UserCity; ?>' class="form-control">
+                                 </div>
+                                 <div class="form-group col-lg-6 col-md-6 col-12">
+                                     <label>Pincode</label>
+                                     <input type="text" name="UserPincode" value='<?php echo $Address->UserPincode; ?>' class="form-control">
+                                 </div>
+                                 <div class="form-group col-lg-6 col-md-6 col-12">
+                                     <label>Address Type</label>
+                                     <select class="form-control " name="UserAddressType">
+                                         <?php echo InputOptions(["PERMANENT", "CURRENT"], $Address->UserAddressType); ?>
+                                     </select>
+                                 </div>
+                                 <div class="form-group col-lg-12 col-md-12 col-12">
+                                     <label>Contact Person At Address</label>
+                                     <input type="text" name="UserAddressContactPerson" value='<?php echo $Address->UserAddressContactPerson; ?>' class="form-control">
+                                 </div>
+                                 <div class='col-md-12 text-right'>
+                                     <hr>
+                                     <?php echo CONFIRM_DELETE_POPUP(
+                                            "address",
+                                            [
+                                                "remove_address_record" => true,
+                                                "UserAddressId" => $Address->UserAddressId
+                                            ],
+                                            null,
+                                            "<i class='fa fa-trash'></i> Remove Address",
+                                            "btn btn-xs pull-left text-danger"
+                                        ); ?>
+                                     <button type='submit' name='UpdateUserAddress' class='btn btn-xs btn-primary'><i class='fa fa-check-circle'></i> Update Address</button>
+                                 </div>
+                             </div>
+                         </div>
+                     </form>
+             <?php }
+                } ?>
+         </div>
      </div>
  </div>

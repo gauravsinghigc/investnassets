@@ -14,12 +14,30 @@ if (isset($_POST['updateprofileimage'])) {
   $remove_team_member = SECURE($_GET['remove_team_member'], "d");
 
   if ($remove_team_member == true) {
+    $access_url = APP_URL . "/users";
     $control_id = SECURE($_GET['control_id'], "d");
     $delete = DELETE_FROM("users", "UserId='$control_id'");
     $delete = DELETE_FROM("user_addresses", "UserAddressUserId='$control_id'");
     $delete = DELETE_FROM("user_bank_details", "UserMainId='$control_id'");
     $delete = DELETE_FROM("user_documents", "UserMainId='$control_id'");
     $delete = DELETE_FROM("user_employment_details", "UserMainUserId='$control_id'");
+    $delete = DELETE_FROM("user_access", "UserAccessUserId='$control_id'");
+    $delete = DELETE_FROM("user_allowed_leaves", "UserALMainUserId='$control_id'");
+    $delete = DELETE_FROM("user_appraisals", "UserAppraisalMainUserId='$control_id'");
+    $delete = DELETE_FROM("user_attandance_check_in", "check_in_main_user_id='$control_id'");
+    $delete = DELETE_FROM("user_attandance_check_out", "check_out_main_user_id='$control_id'");
+    $delete = DELETE_FROM("user_day_breaks", "day_break_main_user_id='$control_id'");
+    $delete = DELETE_FROM("user_family_members", "UserFMMainUserId='$control_id'");
+    $delete = DELETE_FROM("user_leaves", "UserMainId='$control_id'");
+    $delete = DELETE_FROM("user_leave_attachments", "UserLeaveMainId='$control_id'");
+    $delete = DELETE_FROM("user_leave_contact_nos", "UserLeaveMainId='$control_id'");
+    $delete = DELETE_FROM("user_leave_status", "UserLeaveMainId='$control_id'");
+    $delete = DELETE_FROM("user_meetings", "user_main_user_id='$control_id'");
+    $delete = DELETE_FROM("user_onboarding", "users_main_id='$control_id'");
+    $delete = DELETE_FROM("user_permissions", "UserPermissionUserId='$control_id'");
+    $delete = DELETE_FROM("user_pips", "UserPIPMainUserId='$control_id'");
+    $delete = DELETE_FROM("user_rewards", "RewardMainUserId='$control_id'");
+    unset($_SESSION['USER_DASHBOARD']);
   } else {
     $delete = false;
   }
@@ -46,11 +64,11 @@ if (isset($_POST['updateprofileimage'])) {
   RESPONSE($Update, $_POST['UserFullName'] . " profile is updated successfully!", "Unable to update profile at the moment!");
 
   //update address
-} elseif (isset($_POST['UpdateAddress'])) {
+} elseif (isset($_POST['UpdateUserAddress'])) {
   $UserId = SECURE($_POST['UserId'], "d");
+  $UserAddressId = SECURE($_POST['UserAddressId'], "d");
 
   $Address = array(
-    "UserAddressUserId" => $UserId,
     "UserStreetAddress" => SECURE($_POST["UserStreetAddress"], "e"),
     "UserLocality" => $_POST['UserLocality'],
     "UserCity" => $_POST['UserCity'],
@@ -61,12 +79,7 @@ if (isset($_POST['updateprofileimage'])) {
     "UserAddressContactPerson" => $_POST['UserAddressContactPerson'],
   );
 
-  $CheckAddress = CHECK("SELECT * FROM user_addresses where UserAddressUserId='$UserId'");
-  if ($CheckAddress == null) {
-    $Update = INSERT("user_addresses", $Address);
-  } else {
-    $Update = UPDATE_DATA("user_addresses", $Address, "UserAddressUserId='$UserId'");
-  }
+  $Update = UPDATE_DATA("user_addresses", $Address, "UserAddressId='$UserAddressId'");
   RESPONSE($Update, "Address details are updated successfully!", "Unable to update address details at the moment!");
 
   //update employment details
@@ -100,7 +113,7 @@ if (isset($_POST['updateprofileimage'])) {
   } else {
     $Update = UPDATE_DATA("user_employment_details", $EmpDetails, "UserMainUserId='$UserId'");
   }
-  
+
   $BANKDETAILS = array(
     "UserMainId" => $UserId,
     "UserBankName" => $_POST['UserBankName'],
@@ -191,7 +204,7 @@ if (isset($_POST['updateprofileimage'])) {
   $UserDateOfBirth = $_POST['UserDateOfBirth'];
 
   //address requests 
-  $UserStreetAddress = SECURE($_POST['UserStreetAddress'],"e");
+  $UserStreetAddress = SECURE($_POST['UserStreetAddress'], "e");
   $UserLocality =  $_POST['UserLocality'];
   $UserCity =  $_POST['UserCity'];
   $UserState =  $_POST['UserState'];
@@ -215,6 +228,45 @@ if (isset($_POST['updateprofileimage'])) {
 
   //GET registered customer id 
   $UserAddressUserId = FETCH("SELECT * FROM users where UserPhoneNumber='$UserPhoneNumber' AND UserEmailId='$UserEmailId' ORDER BY UserId DESC limit 0, 1", "UserId");
+
+  if (isset($_POST['BOTH_SAME_ADDRESS'])) {
+    if ($_POST['BOTH_SAME_ADDRESS'] == "true") {
+      $NewAddress = true;
+    } else {
+      $NewAddress = false;
+    }
+  } else {
+    $NewAddress = false;
+  }
+
+  if ($NewAddress == true) {
+    $NewAddress = [
+      "UserStreetAddress" => SECURE($_POST['UserStreetAddress1'], "e"),
+      "UserLocality" =>  $_POST['UserLocality1'],
+      "UserCity" =>  $_POST['UserCity1'],
+      "UserState" =>  $_POST['UserState1'],
+      "UserCountry" => $_POST['UserCountry1'],
+      "UserPincode" => $_POST['UserPincode1'],
+      "UserAddressType" => $_POST['UserAddressType1'],
+      "UserAddressContactPerson" => $_POST['UserAddressContactPerson1'],
+      "UserAddressUserId" => $UserAddressUserId
+    ];
+  } else {
+    $NewAddress = [
+      "UserStreetAddress" => SECURE($_POST['UserStreetAddress'], "e"),
+      "UserLocality" =>  $_POST['UserLocality'],
+      "UserCity" =>  $_POST['UserCity'],
+      "UserState" =>  $_POST['UserState'],
+      "UserCountry" => $_POST['UserCountry'],
+      "UserPincode" => $_POST['UserPincode'],
+      "UserAddressType" => $_POST['UserAddressType'],
+      "UserAddressContactPerson" => $_POST['UserAddressContactPerson'],
+      "UserAddressUserId" => $UserAddressUserId
+    ];
+  }
+
+  //save new address
+  $Save = INSERT("user_addresses", $NewAddress);
 
   //save user types
   foreach ($_POST['UserType'] as $UserType) {
@@ -246,8 +298,7 @@ if (isset($_POST['updateprofileimage'])) {
     "UserEmpVisitingCard" => $_POST['UserEmpVisitingCard'],
     "UserEmpWorkEmailId" => $_POST['UserEmpWorkEmailId'],
     "UserEmpGroupName" => $_POST['UserEmpGroupName'],
-    "UserEmpLocations" => $_POST['UserEmpLocations'],
-    "UserEmpRoleStatus"=> $_POST['UserEmpRoleStatus'],
+    "UserEmpLocations" => $_POST['UserEmpLocations']
   );
   $Check = CHECK("SELECT * FROM user_employment_details where UserMainUserId='$UserId'");
   if ($Check == null) {
@@ -279,6 +330,50 @@ if (isset($_POST['updateprofileimage'])) {
   );
   $SAVEADDAHR = INSERT("user_documents", $ADHAAR);
 
+  //onboarding proces enabling
+  $OnBoardingEmailContent = "";
+  if (isset($_POST['ON_BOARDING_STATUS'])) {
+    if ($_POST['ON_BOARDING_STATUS'] == "true") {
+
+      //save primary details in the records for further processing
+      $user_onboarding = [
+        "users_main_id" => $UserId,
+        "users_step_a" => null,
+        "users_step_b" => null,
+        "users_step_c" => null,
+        "users_step_d" => null,
+        "users_step_e" => null,
+        "user_email_status" => null,
+        "user_phone_status" => null,
+        "user_verification_status" => 0,
+        "user_verification_approval_status" => 0,
+        "user_onboarding_requested_at" => CURRENT_DATE_TIME,
+        "user_verification_last_updated_at" => CURRENT_DATE_TIME
+      ];
+
+      //check for any existing onboarding process
+      $Onboardingexists = CHECK("SELECT user_onboarding_id FROM user_onboarding where users_main_id='$UserId'");
+      if ($Onboardingexists == null) {
+        $SaveOnboarding = INSERT("user_onboarding", $user_onboarding);
+      } else {
+        $SaveOnboarding = true;
+      }
+
+      //generate onboarding template;
+      if ($SaveOnboarding == true) {
+        $user_onboarding_id = FETCH("SELECT user_onboarding_id FROM user_onboarding where users_main_id='$UserId' ORDER BY user_onboarding_id DESC LIMIT 1", "user_onboarding_id");
+        $BoardingId = SECURE($user_onboarding_id, "e");
+        $OnBoardingEmailContent .= "<h3>Please complete your profile.</h3>";
+        $OnBoardingEmailContent .= "<p>Your account's initial set up is completed. We will review your profile and activate your account as soon as possible. for this please complete your profile via our simple onboarding process, which take 5-7 min in completion.</p>";
+        $OnBoardingEmailContent .= "<h4>Here is the unique onboarding process URL which is active for next 48 hours only.</h4>";
+        $OnBoardingEmailContent .= "<a href='" . APP_URL . "/onboarding/?for=$BoardingId' style='font-size:1rem;padding:0.5rem 1rem;background-color: #322a7d !important;color:white;border-radius:0.35rem;text-decoration:none !important;'>Complete Profile <i class='fa fa-angle-right'></i></a>";
+      }
+    } else {
+      $OnBoardingEmailContent = "";
+    }
+  } else {
+    $OnBoardingEmailContent = "";
+  }
   //send mail to created account
   SENDMAILS("Welcome to " . APP_NAME, "Dear " . $UserFullName . ",", $UserEmailId, "<br>
  <p>
@@ -288,12 +383,15 @@ if (isset($_POST['updateprofileimage'])) {
  <b>Username:</b> " . $UserEmailId . "<br>
  <b>Password:</b> " . $UserPassword . "<br>
  <b>Login URL: </b> " . DOMAIN . "<br>
+</p>
  <br>
+ $OnBoardingEmailContent
+ <p>
  <b>Note:</b> Please change your password after login.<br>
- </p>");
+</p>");
 
   //generate response
-  RESPONSE($Save, "New Customer Details saved successfully!", "Unable to save customer details at the moment!");
+  RESPONSE($Save, "New User Details saved successfully!", "Unable to save user details at the moment!");
 
   //update access level for users
 } elseif (isset($_POST['UpdateAccessLevel'])) {
@@ -314,4 +412,26 @@ if (isset($_POST['updateprofileimage'])) {
   }
 
   RESPONSE($Response, "User Access level updated successfully!", "Unable to update user access level!");
+
+  //update user status
+} elseif (isset($_POST['UpdateUserStatus'])) {
+  $UserId = SECURE($_POST['UserId'], "d");
+  $UserStatus = $_POST['UserStatus'];
+
+  if (isset($_POST['UserStatus'])) {
+    $UserStatus = 1;
+  } else {
+    $UserStatus = 0;
+  }
+
+  $users = [
+    "UserStatus" => $UserStatus,
+    "UserUpdatedAt" => CURRENT_DATE_TIME
+  ];
+
+  $UserStatus = StatusViewWithText($UserStatus);
+  $UserFullName = GET_DATA("users", "UserFullName", "UserId='$UserId'");
+  $UserPhoneNumber = GET_DATA("users", "UserPhoneNumber", "UserId='$UserId'");
+  $Update = UPDATE_DATA("users", $users, "UserId='$UserId'");
+  RESPONSE($Update, "<b class='text-danger'>Status Updated Successfully!</b><br> [-- <b>$UserFullName - ($UserPhoneNumber)</b> --]<br>@ ( Now <b>$UserStatus</b>)", "Unable to update user status!");
 }

@@ -85,7 +85,7 @@ include $Dir . "/app/customers/details/sections/pageHeader.php";
     include $Dir . "/include/forms/Add-New-Booking-For-Reg-Customers.php";
     include $Dir . "/include/forms/Update-Customer-Address.php";
     include $Dir . "/include/forms/Update-Customer-Info.php";
-    include $Dir . "/include/forms/Add-New-Payment-Record.php";
+    include $Dir . "/include/forms/Add-Booking-Payment-Records.php";
     include $Dir . "/include/forms/Upload-Customer-Documents.php";
     include $Dir . "/include/forms/Send-Notifications.php";
     include $Dir . "/include/app/Footer.php"; ?>

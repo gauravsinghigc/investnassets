@@ -4254,8 +4254,8 @@ input[type="submit"].btn-block {
 
 .custom-control-input:checked~.custom-control-label::before {
   color: #fff;
-  border-color: #007bff;
-  background-color: #007bff;
+  border-color: #ffffff;
+  background-color: #009509;
   box-shadow: none;
 }
 
@@ -4359,10 +4359,11 @@ input[type="submit"].btn-block {
 }
 
 .custom-switch .custom-control-label::before {
-  left: -2.25rem;
+  left: -2.3rem;
   width: 1.75rem;
   pointer-events: all;
   border-radius: 0.5rem;
+  height: 1.05rem;
 }
 
 .custom-switch .custom-control-label::after {
@@ -11240,8 +11241,6 @@ button.bg-dark:hover {
   background-color: rgba(0, 0, 0, 0);
 }
 
-.text-monospace {}
-
 .text-justify {
   text-align: justify !important;
 }
@@ -11368,14 +11367,6 @@ button.bg-dark:hover {
   color: #fff !important;
 }
 
-.text-primary {
-  color: #007bff !important;
-}
-
-a.text-primary:focus,
-a.text-primary:hover {
-  color: #0056b3 !important;
-}
 
 .text-secondary {
   color: #6c757d !important;
@@ -13931,10 +13922,6 @@ body:not(.layout-fixed) .main-sidebar .sidebar {
   color: #fff;
 }
 
-[class*="sidebar-light"] .brand-link {
-  /* border-bottom: 1px solid #dee2e6; */
-}
-
 [class*="sidebar-light"] .brand-link,
 [class*="sidebar-light"] .brand-link .pushmenu {
   color: rgba(0, 0, 0, 0.8);
@@ -14142,6 +14129,8 @@ body:not(.layout-fixed) .main-sidebar .sidebar {
 
 .nav-sidebar>.nav-item {
   margin-bottom: 0;
+  margin-left: 0.2rem;
+  border-radius: 46rem !important;
 }
 
 .nav-sidebar>.nav-item .nav-icon {
@@ -14149,7 +14138,7 @@ body:not(.layout-fixed) .main-sidebar .sidebar {
   font-size: 1.5rem;
   margin-right: 0.2rem;
   text-align: center;
-  width: 1.1rem;
+  width: 1rem;
 }
 
 .nav-sidebar>.nav-item .nav-icon.fa,
@@ -14207,7 +14196,7 @@ body:not(.layout-fixed) .main-sidebar .sidebar {
   white-space: normal;
   color: #343434 !important;
   font-size: 0.945rem !important;
-  padding-left: 0rem;
+  padding-left: 0.25rem;
 }
 
 .sidebar-is-opening .sidebar .nav-sidebar .nav-link p {
@@ -16709,6 +16698,7 @@ body:not(.layout-fixed) .main-sidebar .sidebar {
 
 .nav-sidebar .nav-item>.nav-link {
   position: relative;
+  border-radius: 45rem !important;
 }
 
 .nav-sidebar .nav-item>.nav-link>.float-right {
@@ -37762,43 +37752,43 @@ body.iframe-mode-fullscreen .content-wrapper.iframe-mode {
   box-shadow: none;
 }
 
-select.~.select2-container--default {
+select.select2-container--default {
   font-size: 75%;
 }
 
 .text-sm .select2-container--default .select2-selection--single,
-select.~.select2-container--default .select2-selection--single {
+select.select2-container--default .select2-selection--single {
   height: calc(1.8125rem + 2px);
 }
 
 .text-sm .select2-container--default .select2-selection--single .select2-selection__rendered,
-select.~.select2-container--default .select2-selection--single .select2-selection__rendered {
+select.select2-container--default .select2-selection--single .select2-selection__rendered {
   margin-top: -0.4rem;
 }
 
 .text-sm .select2-container--default .select2-selection--single .select2-selection__arrow,
-select.~.select2-container--default .select2-selection--single .select2-selection__arrow {
+select.select2-container--default .select2-selection--single .select2-selection__arrow {
   top: -0.12rem;
 }
 
 .text-sm .select2-container--default .select2-selection--multiple,
-select.~.select2-container--default .select2-selection--multiple {
+select.select2-container--default .select2-selection--multiple {
   min-height: calc(1.8125rem + 2px);
 }
 
 .text-sm .select2-container--default .select2-selection--multiple .select2-selection__rendered,
-select.~.select2-container--default .select2-selection--multiple .select2-selection__rendered {
+select.select2-container--default .select2-selection--multiple .select2-selection__rendered {
   padding: 0 0.25rem 0.25rem;
   margin-top: -0.1rem;
 }
 
 .text-sm .select2-container--default .select2-selection--multiple .select2-selection__rendered li:first-child.select2-search.select2-search--inline,
-select.~.select2-container--default .select2-selection--multiple .select2-selection__rendered li:first-child.select2-search.select2-search--inline {
+select.select2-container--default .select2-selection--multiple .select2-selection__rendered li:first-child.select2-search.select2-search--inline {
   margin-left: 0.25rem;
 }
 
 .text-sm .select2-container--default .select2-selection--multiple .select2-selection__rendered .select2-search.select2-search--inline .select2-search__field,
-select.~.select2-container--default .select2-selection--multiple .select2-selection__rendered .select2-search.select2-search--inline .select2-search__field {
+select.select2-container--default .select2-selection--multiple .select2-selection__rendered .select2-search.select2-search--inline .select2-search__field {
   margin-top: 6px;
 }
 

@@ -13,7 +13,7 @@ $AddressSql = "SELECT * FROM user_addresses where UserAddressUserId='$REQ_UserId
 $DocSql = "SELECT * FROM user_documents where UserMainId='$REQ_UserId'";
 $BankSql = "SELECT * FROM user_bank_details where UserMainId='$REQ_UserId'";
 
-HandleInvalidData(TOTAL($UserSql), APP_URL . "/<?php echo APP_URL;?>/users");
+HandleInvalidData(TOTAL($UserSql), APP_URL . "/users");
 
 $LOGIN_UserProfileImage1 = FETCH($UserSql, "UserProfileImage");
 if ($LOGIN_UserProfileImage1 == "default.png") {
